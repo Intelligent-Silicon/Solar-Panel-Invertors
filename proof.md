@@ -44,6 +44,17 @@ Whilst laptops are very common and convenient, desktops computers are still popu
 ![Battery 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery2.jpg)
 
 
+### Windows Event Logs
+
+MS Windows is still the most popular operating system for computer's, so looking through the Event logs built into windows, can also show if anything occurred around the date.
+
+On Windows 11, this can be done using two methods.
+
+Press ```Windows Key``` and ```R``` at the same time to display the Run command window, and type in ```eventvwr.msc``` before clicking the OK button.
+
+You will see a screen similar to this. You will need to expand the nodes on the left, scroll to the bottom of the middle pane, to see if the log goes back far enough and then review any information shown around the time.
+
+![Event Viewer](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr.jpg)
 
 
  
