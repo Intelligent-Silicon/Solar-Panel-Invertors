@@ -57,12 +57,25 @@ You will see a screen similar to this. You will need to expand the nodes on the 
 ![Event Viewer](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr.jpg)
 
 
+Here we can see a gap between 14:40:49 and 17:33:00 indicating a possible power event, if a battery backup was not connected to a desktop.
+![Event Viewer2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr2.jpg)
+
+Here we can see an Event Log entry suggesting the device is starting up. Session 0 in Windows is a dedicated, isolated system session that hosts background services and critical operating system processes rather than interactive user applications.
+The numerous entries all within a few seconds and minutes are typically seen when a device starts up or shuts down.
+![Event Viewer3](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr3.jpg)
+
 Another way to collect information is to use the ```Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider```. It tracks enrollment, recording when a PC joins or fails to join corporate management systems like Microsoft Intune or Microsoft Entra ID. More information can be found here: https://learn.microsoft.com/en-us/windows/client-management/mdm-collect-logs This facility allows the remote collection of activity from a PC thats located in remote locations like people working from home. 
 
 
 ### Software using Win32 Device Power API
 
-You may have software installed that uses the Device Power API's (https://learn.microsoft.com/en-us/windows/win32/power/using-the-device-power-api). These API's can detect such things as the type of computer being used, ie desktop or laptop, whether the laptop lid is open or closed, whether the device has gone into a low power mode, hibernate, the new hybrid power mode, is running on mains or battery and so on. 
+You may have software installed that uses the Device Power API's (https://learn.microsoft.com/en-us/windows/win32/power/using-the-device-power-api). These API's can detect such things as the type of computer being used, ie desktop or laptop, whether the laptop lid is open or closed, whether the device has gone into a low power mode, hibernate, the new hybrid power mode, if the device is running on mains or battery with the battery percentage remaining, and if the screen saver is on or off, or display is switched on or off.
+
+### Onus
+
+Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all 
+
+
 
 
 
