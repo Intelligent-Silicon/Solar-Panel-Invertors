@@ -52,9 +52,19 @@ On Windows 11, this can be done using two methods.
 
 Press ```Windows Key``` and ```R``` at the same time to display the Run command window, and type in ```eventvwr.msc``` before clicking the OK button.
 
-You will see a screen similar to this. You will need to expand the nodes on the left, scroll to the bottom of the middle pane, to see if the log goes back far enough and then review any information shown around the time.
+You will see a screen similar to this. You will need to expand the nodes on the left, scroll to the bottom of the middle pane, to see if the log goes back far enough and then review any information shown around the time. Some logs are set to not go above a certain size, and when the size limit is reached, will start removing old records to free up space for new records.
 
 ![Event Viewer](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr.jpg)
+
+
+Another way to collect information is to use the ```Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider```. It tracks enrollment, recording when a PC joins or fails to join corporate management systems like Microsoft Intune or Microsoft Entra ID. More information can be found here: https://learn.microsoft.com/en-us/windows/client-management/mdm-collect-logs This facility allows the remote collection of activity from a PC thats located in remote locations like people working from home. 
+
+
+### Software using Win32 Device Power API
+
+You may have software installed that uses the Device Power API's (https://learn.microsoft.com/en-us/windows/win32/power/using-the-device-power-api). These API's can detect such things as the type of computer being used, ie desktop or laptop, whether the laptop lid is open or closed, whether the device has gone into a low power mode, hibernate, the new hybrid power mode, is running on mains or battery and so on. 
+
+
 
 
  
