@@ -7,3 +7,5 @@ Sometimes the action or event is not always what it seems, and no one should eve
 At the time of writing, logs from devices like routers or computers known to be on at the time of the power event either dont cover the time frame, or indicate they were switched on at the time.
 
 Unfortunately access to services like twitter are being blocked so its currently impossible to get the data to show this.
+
+Entries in the Window's event log are showing no sign of a power cut, and no sign of a user having to log in after the power event was supposedly resolved.
