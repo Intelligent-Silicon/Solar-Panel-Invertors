@@ -16,10 +16,10 @@ In order to help prove the NG was at fault, sign up to alerts here: https://www.
 
 ![Power Alert](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsg.jpg)
 
-This will help you to take your power supply company to the small claim's court's using https://www.moneyclaim.gov.uk/web/mcol/welcome a fast service, which requires just written evidence like.
+This will help you to take your power supply company to the small claim's court's using https://www.moneyclaim.gov.uk/web/mcol/welcome a fast service, which requires just written evidence like the above text message and below Inverter data.
 
 
-
+![Inverter Meter Reading](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/InverterData.jpg)
 
 
 
