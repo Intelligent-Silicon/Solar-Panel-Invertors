@@ -34,6 +34,15 @@ Its worth checking text messages to see if there has been any mention of a power
 ![Power Alert 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsg3Small.jpg)
 
 
+### Battery Backups
+
+Whilst laptops are very common and convenient, desktops computers are still popular and many will come with a battery backup that logs information. This will also show pertinent information which could be useful.
+
+
+![Battery 1](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery1.jpg)
+
+![Battery 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery2.jpg)
+
 
 
 
