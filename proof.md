@@ -68,9 +68,9 @@ It should be noted that its NOT possible to delete individual entries from a Win
 
 The information contained in the Event Log contradicts the information sent in the two text messages, about the time of the power event and the time when it came back on! 
 
-Obviously a desktop not sat behind a Surge protector, will almost have certainly packed up considering the power surge took out the IGBT in a solar power invertor. It should be noted that an IGBT is a component which is considered a sacrificial lamb. Likewise most surge protectors built into multi-socket extension leads will not have any means to log a power event like a power surge, and will only show up with a power cut.
+Obviously a desktop not sat behind a Surge protector, will almost have certainly packed up considering the power surge took out the IGBT in a solar power invertor. It should be noted that an IGBT is a component which is considered a sacrificial lamb. Likewise most surge protectors built into multi-socket extension leads will not have any means to log a power event like a power surge, and will only show up a power cut in any devices which can log meta data like a computer.
 
-Here in the UK, this also wont be considered a criminal offence, and when has the British Police ever investigated a power surge at least of an electrical kind!?! Obtusity and opaqueness is a special quality within the British State when it suits!
+Here in the UK, this also wont be considered a criminal offence, and when has the British Police ever investigated a power surge at least of an electrical kind!?! Obtusity and opaqueness is a special quality within the British State when it suits but the NHS can be so quick to label someone delusion to shutdown any conversation!
 
 Another way to collect information is to use the ```Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider```. It tracks enrollment, recording when a PC joins or fails to join corporate management systems like Microsoft Intune or Microsoft Entra ID. More information can be found here: https://learn.microsoft.com/en-us/windows/client-management/mdm-collect-logs This facility allows the remote collection of activity from a PC thats located in remote locations like people working from home. 
 
