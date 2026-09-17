@@ -2,7 +2,7 @@
 
 As with anything that will go to court, the burden of proof is on the person making the claim. 
 
-Sometimes the action or event is not always what it seems, and no one should ever under estimate entities better resourced than yourself. even during peacetime, the military will always be developing new methods to destabilise entities. 
+Sometimes the action or event is not always what it seems, and no one should ever under estimate entities better resourced than yourself. Even during peacetime, the military will always be developing new methods to destabilise entities. 
 
 ### Things to check.
 
@@ -12,7 +12,7 @@ Most households will have a Router of sorts to connect to the internet, not all 
 
 ### Online email 
 
-Checking the send box of online email is worth checking, you might even find out that an email has been set around the time of the power event.
+Checking the send box of online email is worth checking, you might even find out that an email has been sent around the time of the power event.
 
 ### Online Forums
 
@@ -20,14 +20,18 @@ If the users posts to any online forums, and its possible they may have posted a
 
 ### Social Media
 
-If the users posts to any online forums, its worth checking those and trying to get the data, but dont be surprised you get locked out of the account for no reason and you cant access your data. 
+If the users posts to any online forums, its worth checking those and trying to get to the data.
 
 
 ### Text Messages
 
-Its worth checking text messages to see if there has been any mention of a power cut around the time of the power.
+Its worth checking text messages to see if there has been any mention of a power cut sent by people in the property around the time of the power event.
 
+![Power Alert 1](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsgSmall.jpg)
 
+![Power Alert 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsg2Small.jpg)
+
+![Power Alert 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsg3Small.jpg)
 
 
 
