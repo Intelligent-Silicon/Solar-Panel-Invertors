@@ -32,6 +32,14 @@ This will help you to take your power supply company to the small claim's court'
 ![Inverter Meter Reading](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/InverterData.jpg)
 
 
+UK Laws & Regulations
+
+Property Electrical Equipment
+
+
+
+
+
 
 
 
