@@ -64,6 +64,10 @@ Here we can see an Event Log entry suggesting the device is starting up. Session
 The numerous entries all within a few seconds and minutes are typically seen when a device starts up or shuts down.
 ![Event Viewer3](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr3.jpg)
 
+It should be noted that its NOT possible to delete individual entries from a Windows log file. Deletion of records is an all or nothing approach. Microsoft designed the Windows Event Log architecture to be immutable to prevent malicious actors and tampering from covering up system changes or forensic footprints.
+
+The information contained in the Event Log contradicts the information sent in the two text messages, about the time of the power event and the time when it came back on! 
+
 Another way to collect information is to use the ```Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider```. It tracks enrollment, recording when a PC joins or fails to join corporate management systems like Microsoft Intune or Microsoft Entra ID. More information can be found here: https://learn.microsoft.com/en-us/windows/client-management/mdm-collect-logs This facility allows the remote collection of activity from a PC thats located in remote locations like people working from home. 
 
 
