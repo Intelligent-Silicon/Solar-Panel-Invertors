@@ -25,6 +25,12 @@ If the users posts to any online forums, its worth checking those and trying to 
 
 ### Text Messages
 
+Its worth checking text messages to see if there has been any mention of a power cut around the time of the power.
+
+
+
+
+
 
 
  

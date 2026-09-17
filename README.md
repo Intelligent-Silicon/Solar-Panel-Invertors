@@ -24,7 +24,7 @@ In order to help prove the NG was at fault, sign up to alerts here: https://www.
 
 You will get a txt message alert like the one shown immediately below when a problem occurs, but the nature of the problem will not be known.
 
-![Power Alert](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsg.jpg)
+![Power Alert 1](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsgSmall.jpg)
 
 This will help you to take your power supply company to the small claim's court's using https://www.moneyclaim.gov.uk/web/mcol/welcome a fast online service, which requires just written evidence submitted using the website like the above text message and below Inverter data.
 
