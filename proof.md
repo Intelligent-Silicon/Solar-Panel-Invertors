@@ -68,7 +68,7 @@ It should be noted that its NOT possible to delete individual entries from a Win
 
 The information contained in the Event Log contradicts the information sent in the two text messages, about the time of the power event and the time when it came back on! 
 
-Obviously a desktop not sat behind a Surge protector, will almost have certainly packed up considering the power surge took out the IGBT in a solar power invertor. It should be noted that an IGBT is a component which is considered a sacrificial lamb.
+Obviously a desktop not sat behind a Surge protector, will almost have certainly packed up considering the power surge took out the IGBT in a solar power invertor. It should be noted that an IGBT is a component which is considered a sacrificial lamb. Likewise most surge protectors built into multi-socket extension leads will not have any means to log a power event like a power surge, and will only show up with a power cut.
 
 Another way to collect information is to use the ```Microsoft-Windows-DeviceManagement-Enterprise-Diagnostics-Provider```. It tracks enrollment, recording when a PC joins or fails to join corporate management systems like Microsoft Intune or Microsoft Entra ID. More information can be found here: https://learn.microsoft.com/en-us/windows/client-management/mdm-collect-logs This facility allows the remote collection of activity from a PC thats located in remote locations like people working from home. 
 
@@ -79,7 +79,7 @@ You may have software installed that uses the Device Power API's (https://learn.
 
 ### Onus
 
-Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all 
+Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all device's will collect data, but increasingly more and more are.
 
 
 
