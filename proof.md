@@ -83,6 +83,8 @@ You may have software installed that uses the Device Power API's (https://learn.
 
 Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all device's will collect data, but increasingly more and more are.
 
+You have to admit, these digital devices are an excellent way of keeping people contained for the best part of their lives, inactive which contributes to poor health, believing whatever the device says. Little Britain - Computer says no, was so prescient! 
+
 
 
 
