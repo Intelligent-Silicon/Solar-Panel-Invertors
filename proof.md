@@ -84,7 +84,7 @@ You may have software installed that uses the Device Power API's (https://learn.
 
 ### Bios Logs
 
-Most modern computers will have a BIOS (Basic Input Output System) firmware, although now a days this is often called a UEFI bios. This BIOS is also capable of capturing power events, but it may not be accurate because the firmware and/or hardware is simply not working properly. 
+Most modern computers will have a BIOS (Basic Input Output System) firmware, although now a days this is often called a UEFI bios. This BIOS is also capable of capturing power events, but it may not be accurate because the firmware and/or hardware is simply not working properly, or a sensor is faulty.
 
 ### Onus
 
