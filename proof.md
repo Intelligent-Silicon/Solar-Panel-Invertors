@@ -96,6 +96,9 @@ If you think of a cable connection, like a network cable or telephone line or ma
 Here you can see bands of frequencies where data is uploaded or downloaded. Think of each band as an individual radio station, and your router is capable of transmitting and receiving simultaneously.
 ![ADSL Spectrum](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/adslSpectrum.jpg)
 
+
+So if you have an alarm system fitted, its also worth checking with them to see if any event was sent to them, like the alarm system switching over to battery backup.
+
 ### Onus
 
 Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all device's will collect data, but increasingly more and more are.
