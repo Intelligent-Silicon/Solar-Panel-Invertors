@@ -20,7 +20,7 @@ If the users posts to any online forums, and its possible they may have posted a
 
 ### Social Media
 
-If the users posts to any online forums, its worth checking those and trying to get to the data.
+If the users poss to any online forums, its worth checking those and trying to get to the data. Unfortunately at the time of writing, some social media accounts have become inaccessible, making it impossible to tell if a device was online. 
 
 
 ### Text Messages
@@ -68,7 +68,7 @@ It should be noted that its NOT possible to delete individual entries from a Win
 
 The information contained in the Event Log contradicts the information sent in the two text messages, about the time of the power event and the time when it came back on! 
 
-Obviously a desktop not sat behind a Surge protector, will almost have certainly packed up considering the power surge took out the IGBT in a solar power invertor. It should be noted that an IGBT is a component which is considered a sacrificial lamb. Likewise most surge protectors built into multi-socket extension leads will not have any means to log a power event like a power surge, and will only show up a power cut in any devices which can log meta data like a computer.
+Obviously a desktop not sat behind a Surge protector, will almost have certainly packed up considering the power surge took out the IGBT in a solar power inverter. It should be noted that an IGBT is a component which is considered a sacrificial lamb. Likewise most surge protectors built into multi-socket extension leads will not have any means to log a power event like a power surge, and will only show up a power cut in any devices which can log meta data like a computer.
 
 Here in the UK, this also wont be considered a criminal offence, and when has the British Police ever investigated a power surge at least of an electrical kind!?! Obtusity and opaqueness is a special quality within the British State when it suits but the NHS can be so quick to label someone delusion to shutdown any conversation! And I'm always reminded that accidents happen!
 
@@ -89,7 +89,7 @@ Collecting the data from all possible sources will help show there was a problem
 
 You have to admit, these digital devices are an excellent way of keeping people contained for the best part of their lives, inactive which contributes to poor health, believing whatever the device says. Little Britain - Computer says no, was so prescient! Who needs a prison when you have a digital device which controls your income and ability to live as you desire...
 
-So bearing in mind the ease at which digital information can be changed, and the difficulty in remotely removing or altering hard copies (paper print outs) of data, even though its considered environmentally damaging to use lots of paper, thoses pieces of paper can be ever so helpful in some situations. Its probably why many Govt entities still use pen and paper. Do they know something we dont?
+So bearing in mind the ease at which digital information can be changed, and the difficulty in remotely removing or altering hard copies (paper print outs) of data, even though its considered environmentally damaging to use lots of paper, those pieces of paper can be ever so helpful in some situations. Its probably why many Govt entities still use pen and paper. Do they know something we dont?
 
 
 
