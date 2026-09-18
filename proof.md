@@ -9,6 +9,7 @@ Sometimes the action or event is not always what it seems (herding behaviour), a
 ### Routers
 
 Most households will have a Router of sorts to connect to the internet, not all but most. These routers will have a system log, that captures events with a date and time stamp. This information can be exported or printed off to a report or PDF.
+The level of detail contained in this router logs will vary, pretty much the same events will occur, like a wifi device connecting or disconnecting to the wifi, but the capture and logging of the event will vary between routers. Obviously this can be used to show a device was in a location or not, even if it doesnt have a password to connect to the wifi. MAC ID blocking is one example, if a wifi device tried to connect to a wifi source but didnt have the password. This is where you need to be careful of the software you download.
 
 ### Online email 
 
@@ -16,11 +17,11 @@ Checking the send box of online email is worth checking, you might even find out
 
 ### Online Forums
 
-If the users posts to any online forums, and its possible they may have posted at the time of the power event, these are worth checking.
+If the user(s) posts to any online forums, and its possible they may have posted at the time of the power event, these are worth checking.
 
 ### Social Media
 
-If the users post to any online forums, its worth checking those and trying to get to the data. Unfortunately at the time of writing, some social media accounts have become inaccessible, making it impossible to tell if a device was online. 
+If the users post to any social media accounts, even one's not public, its worth checking those and trying to get to the data. Unfortunately at the time of writing, some social media accounts have become inaccessible, making it impossible to tell if a device was online. 
 
 
 ### Text Messages
@@ -38,7 +39,6 @@ Its worth checking text messages to see if there has been any mention of a power
 
 Whilst laptops are very common and convenient, desktops computers are still popular and many will come with a battery backup that logs information. This will also show pertinent information which could be useful.
 
-
 ![Battery 1](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery1.jpg)
 
 ![Battery 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery2.jpg)
@@ -46,7 +46,7 @@ Whilst laptops are very common and convenient, desktops computers are still popu
 
 ### Windows Event Logs
 
-MS Windows is still the most popular operating system for computer's, so looking through the Event logs built into Windows, can also show if anything occurred around the date.
+MS Windows is still the most popular operating system for computer's, so looking through the Event logs built into Windows, can also show if anything occurred around the date and time of the power outage.
 
 On Windows 11, this can be done using two methods.
 
@@ -85,6 +85,12 @@ You may have software installed that uses the Device Power API's (https://learn.
 ### Bios Logs
 
 Most modern computers will have a BIOS (Basic Input Output System) firmware, although now a days this is often called a UEFI bios. This BIOS may also be capable of capturing power events, but it may not be accurate because the firmware and/or hardware is simply not working properly, or a sensor is faulty.
+
+
+### Alarm Systems
+
+Some alarm systems will log power events. Since the 90's here in the UK, some alarm systems have used the telephone network to send signals back to a control centre and they work in much the same way as ADSL internet connections. If you think of a cable connection, like a network cable or telephone line or mains electrical cable, its capable of transmitting signals down the wire. These signals are generally contained within the cable, but the concept of multiple radio signals down a wire are just like the different Radio Frequencies (Radio Stations) we can pick up with a radio, if you think of the air as one giant all encompassing cable. When you look at the different frequencies the ADSL router can pickup, its like a radio that can pick up and process multiple radio stations all at the same time! Which makes the router CPU's kind of interesting as an [Software Defined Radio. ](https://en.wikipedia.org/wiki/Software-defined_radio)
+
 
 ### Onus
 
