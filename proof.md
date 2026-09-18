@@ -79,11 +79,17 @@ Another way to collect information is to use the ```Microsoft-Windows-DeviceMana
 
 You may have software installed that uses the Device Power API's (https://learn.microsoft.com/en-us/windows/win32/power/using-the-device-power-api). These API's can detect such things as the type of computer being used, ie desktop or laptop, whether the laptop lid is open or closed, whether the device has gone into a low power mode, hibernate, the new hybrid power mode, if the device is running on mains or battery with the battery percentage remaining, and if the screen saver is on or off, or display is switched on or off.
 
+### Bios logs
+
+Most modern computers will have a BIOS (Basic Input Output System) firmware, although now a days this is often called a UEFI bios. This BIOS is also capable of capturing power events, but it may not be accurate because the firmware and/or hardware is simply not working properly. 
+
 ### Onus
 
 Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all device's will collect data, but increasingly more and more are.
 
-You have to admit, these digital devices are an excellent way of keeping people contained for the best part of their lives, inactive which contributes to poor health, believing whatever the device says. Little Britain - Computer says no, was so prescient! 
+You have to admit, these digital devices are an excellent way of keeping people contained for the best part of their lives, inactive which contributes to poor health, believing whatever the device says. Little Britain - Computer says no, was so prescient! Who needs a prison when you have a digital device which controls your income and ability to live as you desire...
+
+So bearing in mind the ease at which digital information can be changed, and the difficulty in remotely removing or altering hard copies (paper print outs) of data, even though its considered environmentally damaging to use lots of paper, thoses pieces of paper can be ever so helpful in some situations. Its probably why many Govt entities still use pen and paper. Do they know something we dont?
 
 
 
