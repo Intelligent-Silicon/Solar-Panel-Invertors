@@ -101,7 +101,7 @@ So if you have an alarm system fitted, its also worth checking with them to see 
 
 ### Onus
 
-Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all device's will collect data, but increasingly more and more are.
+Collecting the data from all possible sources will help show there was a problem with the power whilst also showing the device may or may not have been at fault. Obviously not all device's will collect data, but increasingly more and more are and are often connected to data centre's online because they are an Internet of Things (IoT), providing its own little piece of meta data for the Security Services to build a picture before deciding to provide the anonymous CrimeStopper's tip off or blame the divorced wife, or disgruntled girlfriend rather than give away their true capabilities. The NHS is just as bad at acting as Judge, Jury and Executioner. Education/Staff Training makes people think they are doing good, so keep increasing your student loans for University education... Grooming starts young...
 
 You have to admit, these digital devices are an excellent way of keeping people contained for the best part of their lives, inactive which contributes to poor health, believing whatever the device says. Little Britain - Computer says no, was so prescient! Who needs a prison when you have a digital device which controls your income and ability to live as you desire...
 
