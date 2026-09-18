@@ -97,7 +97,7 @@ That company went from going bust to doubling its customer base in 6months becau
 
 If you think of a cable connection, like a network cable or telephone line or mains electrical cable, its capable of transmitting multiple signals down the wire. These signals are generally contained within the cable but more powerful ones can leak out of unshielded cables as electrical interference, but the concept of multiple radio signals down a wire are just like the different Radio Frequencies (Radio Stations) we can pick up with a radio, if you think of the air as one giant all encompassing cable. When you look at the different frequencies the ADSL router can pickup, its like a radio that can pick up and process multiple radio stations all at the same time! Which makes the router CPU's kind of interesting when looked at as a [Software Defined Radio. ](https://en.wikipedia.org/wiki/Software-defined_radio)
 
-Here you can see bands of frequencies where data is uploaded or downloaded. Think of each band as an individual radio station, and your router is capable of transmitting and receiving simultaneously.
+Here you can see bands of frequencies where data is uploaded or downloaded. Think of each band as an individual radio station, and your router is capable of transmitting and receiving simultaneously, in SDR terms, multiple full-duplex.
 ![ADSL Spectrum](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/adslSpectrum.jpg)
 
 
