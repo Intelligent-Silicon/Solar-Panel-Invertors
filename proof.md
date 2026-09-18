@@ -20,7 +20,7 @@ If the users posts to any online forums, and its possible they may have posted a
 
 ### Social Media
 
-If the users poss to any online forums, its worth checking those and trying to get to the data. Unfortunately at the time of writing, some social media accounts have become inaccessible, making it impossible to tell if a device was online. 
+If the users post to any online forums, its worth checking those and trying to get to the data. Unfortunately at the time of writing, some social media accounts have become inaccessible, making it impossible to tell if a device was online. 
 
 
 ### Text Messages
@@ -46,13 +46,13 @@ Whilst laptops are very common and convenient, desktops computers are still popu
 
 ### Windows Event Logs
 
-MS Windows is still the most popular operating system for computer's, so looking through the Event logs built into windows, can also show if anything occurred around the date.
+MS Windows is still the most popular operating system for computer's, so looking through the Event logs built into Windows, can also show if anything occurred around the date.
 
 On Windows 11, this can be done using two methods.
 
 Press ```Windows Key``` and ```R``` at the same time to display the Run command window, and type in ```eventvwr.msc``` before clicking the OK button.
 
-You will see a screen similar to this. You will need to expand the nodes on the left, scroll to the bottom of the middle pane, to see if the log goes back far enough and then review any information shown around the time. Some logs are set to not go above a certain size, and when the size limit is reached, will start removing old records to free up space for new records.
+You will see a screen similar to this. You will need to expand the nodes on the left, scroll to the bottom of the middle pane, to see if the log goes back far enough and then review any information shown around the power event time. Some logs are set to not go above a certain size, and when the size limit is reached, will start removing old records to free up space for new records, creating what is mainly called a circular log.
 
 ![Event Viewer](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr.jpg)
 
@@ -60,13 +60,14 @@ You will see a screen similar to this. You will need to expand the nodes on the 
 Here we can see a gap between 14:40:49 and 17:33:00 indicating a possible power event, if a battery backup was not connected to a desktop.
 ![Event Viewer2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr2.jpg)
 
-Here we can see an Event Log entry suggesting the device is starting up. Session 0 in Windows is a dedicated, isolated system session that hosts background services and critical operating system processes rather than interactive user applications.
+Here we can see an Event Log entry suggesting the device is starting up. Session 0 in Windows is a dedicated, isolated system session that hosts background services and critical operating system processes rather than interactive user applications. From a hacking perspective, a background service is ideal because it can gain the highest level of security well above user accounts using Administrator level of security, and it gains Persistence, by virtue of being a background service, out of sight out of mind.
+
 The numerous entries all within a few seconds and minutes are typically seen when a device starts up or shuts down.
 ![Event Viewer3](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr3.jpg)
 
-It should be noted that its NOT possible to delete individual entries from a Windows log file. Deletion of records is an all or nothing approach. Microsoft designed the Windows Event Log architecture to be immutable to prevent malicious actors and tampering from covering up system changes or forensic footprints.
+It should be noted that its NOT possible to delete individual entries from a Windows log file. Deletion of records is an all or nothing approach. Microsoft designed the Windows Event Log architecture to be immutable to prevent malicious actors from tampering with to cover up system changes or forensic footprints.
 
-The information contained in the Event Log contradicts the information sent in the two text messages, about the time of the power event and the time when it came back on! 
+The information contained in the Event Log contradicts the information sent in the two text messages, about the time of the power event and the time when it came back on! This will be seen when the Bios is set to restart the computer when power becomes available after a power outage. This Bios setting might not always be active, but when it is, you can see when the power comes back on because the event log will show entries seen during the boot process.
 
 Obviously a desktop not sat behind a Surge protector, will almost have certainly packed up considering the power surge took out the IGBT in a solar power inverter. It should be noted that an IGBT is a component which is considered a sacrificial lamb. Likewise most surge protectors built into multi-socket extension leads will not have any means to log a power event like a power surge, and will only show up a power cut in any devices which can log meta data like a computer.
 
