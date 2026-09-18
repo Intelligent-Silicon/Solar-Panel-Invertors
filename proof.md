@@ -2,7 +2,7 @@
 
 As with anything that will go to court, the burden of proof is on the person making the claim. 
 
-Sometimes the action or event is not always what it seems, and no one should ever under estimate entities better resourced than yourself. Even during peacetime, the military will always be developing new methods to destabilise entities. 
+Sometimes the action or event is not always what it seems (herding behaviour), and no one should ever under-estimate entities better resourced than yourself. Even during peacetime, the military will always be developing new methods to destabilise entities and learn from. At Govt level's a population has little to no control over this mass manipulation of the population. 
 
 ### Things to check.
 
