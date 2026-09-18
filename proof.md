@@ -79,7 +79,7 @@ Another way to collect information is to use the ```Microsoft-Windows-DeviceMana
 
 You may have software installed that uses the Device Power API's (https://learn.microsoft.com/en-us/windows/win32/power/using-the-device-power-api). These API's can detect such things as the type of computer being used, ie desktop or laptop, whether the laptop lid is open or closed, whether the device has gone into a low power mode, hibernate, the new hybrid power mode, if the device is running on mains or battery with the battery percentage remaining, and if the screen saver is on or off, or display is switched on or off.
 
-### Bios logs
+### Bios Logs
 
 Most modern computers will have a BIOS (Basic Input Output System) firmware, although now a days this is often called a UEFI bios. This BIOS is also capable of capturing power events, but it may not be accurate because the firmware and/or hardware is simply not working properly. 
 
