@@ -41,8 +41,13 @@ Property Electrical Equipment
 
 
 
-
-
-
-
 ## Security Risks to Equipment by Hackers
+
+In these pages, a variety of methods will be discussed to show the difficulty level to access the Solar Panel Inverters.
+
+[Change your Default Passwords](passwords.md)
+
+[War Driving](wardriving.md)
+
+[Download the manuals](manuals.md)
+
