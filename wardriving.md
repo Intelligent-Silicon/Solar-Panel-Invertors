@@ -45,11 +45,11 @@ The risk here is, the USB dongle could become unusable, forcing the property own
 
 A couple of blog posts [here](https://www.whizzy.org/2026-06-14-growatt-shinewifi-x-esphome-modbus-bridge/) and [here](https://medium.com/@rorygallagher2010/flashing-a-growatt-shinewifi-x-replacing-cloud-firmware-with-esphome-for-local-solar-monitoring-99cacaa910f0) show the USB Dongle uses an ESP8266 wifi chip and is a dumb bridge using MODBUS. MODBUS is a communication standard typically found in Industrial Automation, and is an open request-response communication protocol created in 1979 by Modicon (now [Schneider Electric](https://www.se.com) probably more famous for the [APC Battery Backups](https://www.se.com/uk/en/product-range/61883-apc-backups/) for computers and servers) to connect industrial electronic devices. Managed today by the [Modbus Organization](https://www.modbus.org/), it lets control systems talk to sensors, meters, and actuators.
 
-Flashing the USB WiFi dongle firmware using the ESP8266EX must always be done in person and then you can subsequently update the dongles Over The Air (OTA). 
+Flashing the USB WiFi dongle firmware using the ESP8266EX must always be done in person for the very first time and only then you can subsequently update the dongles firmware Over The Air (OTA). 
 
-This presents a security risk, because if some hacker somewhere in the world subsequently discovers some bugs which can be leveraged, the USB dongle cant be updated remotely unless they have already been configured in the factory to allow OTA updates.
+This presents a security risk, because if some hacker somewhere in the world subsequently discovers some bugs which can be leveraged, which is often the case if we are being honest, the USB dongle cant be updated remotely unless it was already  configured in the factory to allow OTA updates. So either your solar panel installer needs to come out and update the firmware (who is picking up that cost if it gets done), or OTA updates we configured in the factory.
 
-A full breakdown of Growatt Inverter codes can be found here https://github.com/pvprodk/GrowattESPHome and may also be similar if not identical to those found in Fox or SunSynk. The clue is the Printed Circuit Board (PCB) design's, where these companies may simply be the same under the covers.
+A full breakdown of Growatt Inverter codes can be found here https://github.com/pvprodk/GrowattESPHome and may also be similar if not identical to those found in Fox or SunSynk. The clue is the Printed Circuit Board (PCB) design's, where these companies may simply be the same under the covers, because there's only so many ways to design a circuit board and there's only so many electrical components available en-mass globally. 
 
 
 
