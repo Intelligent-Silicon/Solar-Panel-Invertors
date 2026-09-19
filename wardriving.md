@@ -72,7 +72,17 @@ Anyway, Wireshark is also capable of sniffing the bluetooth out of the air using
 
 Fortunately SMA make life really easy to get access, with their earlier inverter's broadcasting over bluetooth what device and serial number it was, like so ```SMA002d SN: 1234567890 SN1234567890``` so anyone in range could detect this, made obvious by the solar cells being visible on the roof, or by using Google Maps Satellite view. Do you need access to trade databases? No, just change use the [historical imagery that Google Maps provides](https://developers.google.com/maps/documentation/earth/historical-imagery), to see how far back the solar panels were installed, and you'll have a good idea of how old the invertor is and depending on area, what make and model it could even be!
 
-With that information, you can then cold call the door step and use bluetooth to confirm your suspicions before reminding the home owner of the need to replace their out of warranty equipment for something more recent!
+With that information, you can then cold call the door step and use Bluetooth to confirm your suspicions before reminding the home owner of the need to replace their out of warranty equipment for something more recent!
+
+As these inverters are capable of storing years worth of data, there will no doubt be space for future firmware upgrades because chip storage are soldin fixed units, which means not all the space will be used up, making it possible to upload malicious firmware to do other things. 
+
+Maybe you want the Wifi of the more recent dongles or Bluetooth to simply log when signals are detected, like a car pulling up on the driveway or your neighbour ariving home with their mobile phone that uses bluetooth.
+
+In the case of Wifi, its possible to get someone's wifi by simply using the [Evil Twin attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)). to make this work, get the wifi SSID name thats broadcast, punch it into your Evil Twin software, bump into them in town away from home or work, have the Evil Twin broadcast the fake Wifi name, and your target's mobile phone will detect and try to logon, handing over the wifi password in an instance. Having got this, pop round to the work or home, and use the password, hoping like most people, they dont have MAC ID blocking switched on! It really is that simple to gain access to their network and then to their inverter. From there, what can you do with malicious firmware?
+
+
+This repo wont go into whats involved with reversing firmware, but some of the [techniques for Network Powerline adapters firmware](https://github.com/Intelligent-Silicon/PowerLine-Adapters/blob/main/ReverseEngineerFirmware.md), can also be applied to firmware for Solar Panel Inverters.
+
 
 
 
