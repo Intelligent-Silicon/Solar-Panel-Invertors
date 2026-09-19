@@ -49,5 +49,4 @@ In these pages, a variety of methods will be discussed to show the difficulty le
 
 [War Driving](wardriving.md)
 
-[Download the manuals](manuals.md)
 
