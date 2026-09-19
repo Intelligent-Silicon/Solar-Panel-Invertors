@@ -81,7 +81,7 @@ Maybe you want the Wifi of the more recent dongles or Bluetooth to simply log wh
 In the case of Wifi, its possible to get someone's wifi by simply using the [Evil Twin attack](https://en.wikipedia.org/wiki/Evil_twin_(wireless_networks)). to make this work, get the wifi SSID name thats broadcast, punch it into your Evil Twin software, bump into them in town away from home or work, have the Evil Twin broadcast the fake Wifi name, and your target's mobile phone will detect and try to logon, handing over the wifi password in an instance. Having got this, pop round to the work or home, and use the password, hoping like most people, they dont have MAC ID blocking switched on! It really is that simple to gain access to their network and then to their inverter. From there, what can you do with malicious firmware?
 
 
-This repo wont go into whats involved with reversing firmware, but some of the [techniques for Network Powerline adapters firmware](https://github.com/Intelligent-Silicon/PowerLine-Adapters/blob/main/ReverseEngineerFirmware.md), can also be applied to firmware for Solar Panel Inverters.
+This repo wont go into whats involved with reverse engineering firmware, but some of the [techniques for Network Powerline adapters firmware](https://github.com/Intelligent-Silicon/PowerLine-Adapters/blob/main/ReverseEngineerFirmware.md), can also be applied to firmware for Solar Panel Inverters.
 
 
 
