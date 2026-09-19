@@ -6,5 +6,5 @@ Warbiking, warcycling, warwalking and similar use the same approach but with oth
 
 The term comes from this iconic 1983 Sci-Fi Thriller War Games.
 
-[![War Games](https://img.youtube.com/vi/KXzNo0vR_dU/0.jpg)](https://www.youtube.com/watch?v=KXzNo0vR_dU)
+[![War Games](https://img.youtube.com/vi/YIh41wZEd5c/0.jpg)](https://www.youtube.com/watch?v=YIh41wZEd5c)
 
