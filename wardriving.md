@@ -58,6 +58,21 @@ The Growatt MODBUS tools can be found here. https://github.com/8none1/growatt_mo
 The Wifi might be a risk because it can spread over a distance, so you need to live on a farm to keep prying neighbours at bay!
 
 
+### Older inverters
+
+Well the SMA Sunny Boy inverter I've been given access to is some 13 years old. 
+
+Same thing again, go through the manuals that the defaults for the monitoring software are ```user``` & ```0000``` and ```installer``` and ```1111```. 
+
+These typically use Bluetooth, which in this situation is generally better suited because of its limited range, if you live in a terrace or semi detached, you really only have your immediate neighbours, the postie, courier or some random walking onto your property to suspect. Its not hard to keep a mobile phone in the pocket, to make things look even less suspicious. Have you had some local church member's visiting recently? Were they church member's or just someone who popped into a nearby church, nicked some leaflets and then bowled up to your front door pretending?
+
+I think you can see how easy it is to impersonate someone, and even if they did show you a printed plastic id card on some branded lanyard, with a vaguely similar looking headshot thats worn out, would you even know if its genuine? You know the types, you see them every lunch time, walking up and down the highstreet of your local town or city, ignoring your existence as they push their way through, thrusting their chest forward because it contains a branded lanyard and worn out ID card. You know who you are! You can probably be found virtue signalling on [LinkedIn](https://www.linkedin.com/) after it got all bot-ridden and spammy, and walk the corridors of your employer because its not exactly taxing...
+
+
+
+
+
+
 
 
 
