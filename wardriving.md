@@ -47,9 +47,9 @@ A couple of blog posts [here](https://www.whizzy.org/2026-06-14-growatt-shinewif
 
 Flashing the USB WiFi dongle firmware using the ESP8266EX must always be done in person for the very first time and only then you can subsequently update the dongles firmware Over The Air (OTA). 
 
-This presents a security risk, because if some hacker somewhere in the world subsequently discovers some bugs which can be leveraged, which is often the case if we are being honest, the USB dongle cant be updated remotely unless it was already  configured in the factory to allow OTA updates. So either your solar panel installer needs to come out and update the firmware (who is picking up that cost if it gets done), or OTA updates we configured in the factory.
+This presents a security risk, because if some hacker somewhere in the world subsequently discovers some bugs which can be leveraged, which is often the case if we are being honest, the USB dongle cant be updated remotely unless it was already  configured in the factory to allow OTA updates. So either your solar panel installer needs to come out and update the firmware (who is picking up that cost ___IF___ it gets done), or OTA updates we configured in the factory.
 
-A full breakdown of Growatt Inverter codes can be found here https://github.com/pvprodk/GrowattESPHome and may also be similar if not identical to those found in Fox or SunSynk. The clue is the Printed Circuit Board (PCB) design's, where these companies may simply be the same under the covers, because there's only so many ways to design a circuit board and there's only so many electrical components available en-mass globally. 
+A full breakdown of Growatt Inverter codes can be found here https://github.com/pvprodk/GrowattESPHome and may also be similar if not identical to those found in Fox or SunSynk. The clue is the Printed Circuit Board (PCB) design's, where these companies may simply be the same under the covers, because there's only so many ways to design a circuit board and there's only so many electrical components available en-mass globally, but as we see with car brand's sharing the parts bin is common place. 
 
 
 
