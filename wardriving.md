@@ -36,7 +36,7 @@ On the whole this is reasonably secure from attacker's outside of the property, 
 
 [![1 Year with Tesla Solar Roof](https://img.youtube.com/vi/DG8ImNJHeKI/0.jpg)](https://www.youtube.com/watch?v=DG8ImNJHeKI)
 
-I should also mention Tesla Solar have announced they will be shortly withdrawing from the market place, so a Tesla Solar Roof is no longer a consumer option. Shame, they look so much nicer in olde world Europe and the UK, and yet strangely the planning dept's of council's, dont seem to care too much about giant slabs of solar panels being in keeping with their surroundings.... Awkward Hypocrits when thinking of the other hurdles builder's have to jump through!
+I should also mention Tesla Solar have announced they will be shortly withdrawing from the market place, so a Tesla Solar Roof is no longer a consumer option. Shame, they look so much nicer in olde world Europe and the UK, and yet strangely the planning dept's of council's, dont seem to care too much about giant slabs of solar panels being in keeping with their surroundings.... Awkward Hypocrits when thinking of the other hurdles builder's have to jump through with planning depts!
 
 
 The inverters do appear to use the same ```admin``` and ```12345678``` to connect to the USB wifi dongle, which could present problems if the Solar Panel installer hasnt configured and setup the dongle with the app at the time of installation, but it does require scanning the QR code on the dongle which contains the Serial Number and Check Code, that is then used to pair with the Smart Phone App.
