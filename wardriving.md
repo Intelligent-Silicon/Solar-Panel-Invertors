@@ -60,13 +60,21 @@ The Wifi might be a risk because it can spread over a distance, so you need to l
 
 ### Older inverters
 
-Well the SMA Sunny Boy inverter I've been given access to is some 13 years old. 
+Well the [SMA Sunny Boy inverter](https://www.sma.de/en/products/hybrid-inverters) I've been given access to is some 13 years old. 
 
 Same thing again, go through the manuals that the defaults for the monitoring software are ```user``` & ```0000``` and ```installer``` and ```1111```. 
 
 These typically use Bluetooth, which in this situation is generally better suited because of its limited range, if you live in a terrace or semi detached, you really only have your immediate neighbours, the postie, courier or some random walking onto your property to suspect. Its not hard to keep a mobile phone in the pocket, to make things look even less suspicious. Have you had some local church member's visiting recently? Were they church member's or just someone who popped into a nearby church, nicked some leaflets and then bowled up to your front door pretending?
 
 I think you can see how easy it is to impersonate someone, and even if they did show you a printed plastic id card on some branded lanyard, with a vaguely similar looking headshot thats worn out, would you even know if its genuine? You know the types, you see them every lunch time, walking up and down the highstreet of your local town or city, ignoring your existence as they push their way through, thrusting their chest forward because it contains a branded lanyard and worn out ID card. You know who you are! You can probably be found virtue signalling on [LinkedIn](https://www.linkedin.com/) after it got all bot-ridden and spammy, and walk the corridors of your employer because its not exactly taxing...
+
+Anyway, Wireshark is also capable of sniffing the bluetooth out of the air using the [NordicSemi nRF52840](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle) for a mere [£8](https://uk.farnell.com/nordic-semiconductor/nrf52840-dongle/bluetooth-module-v5-2mbps-1-7/dp/2902521?CMP=grhb-synd-frn-oems-buynow-invf), making it possible to listening on bluetooth communication for "debugging" purposes. Or you can simply run Wireshark on a bluetooth capable laptop and use the laptop's bluetooth to talk directly to the inverter.
+
+Fortunately SMA make life really easy to get access, with their earlier inverter's broadcasting over bluetooth what device and serial number it was, like so ```SMA002d SN: 1234567890 SN1234567890``` so anyone in range could detect this, made obvious by the solar cells being visible on the roof, or by using Google Maps Satellite view. Do you need access to trade databases? No, just change use the [historical imagery that Google Maps provides](https://developers.google.com/maps/documentation/earth/historical-imagery), to see how far back the solar panels were installed, and you'll have a good idea of how old the invertor is and depending on area, what make and model it could even be!
+
+With that information, you can then cold call the door step and use bluetooth to confirm your suspicions before reminding the home owner of the need to replace their out of warranty equipment for something more recent!
+
+
 
 
 
