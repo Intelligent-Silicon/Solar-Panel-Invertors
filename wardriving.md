@@ -36,20 +36,32 @@ On the whole this is reasonably secure from attacker's outside of the property, 
 
 [![1 Year with Tesla Solar Roof](https://img.youtube.com/vi/DG8ImNJHeKI/0.jpg)](https://www.youtube.com/watch?v=DG8ImNJHeKI)
 
-I should also mention Tesla Solar have announced they will be shortly withdrawing from the market place, so a Tesla Solar Roof is no longer a consumer option. Shame, they look so much nicer in olde world Europe and the UK, and yet strangely the planning dept's of council's, dont seem to care too much about giant slabs of solar panels being in keeping with their surroundings.... Awkward Hypocrits when thinking of the other hurdles builder's have to jump through with planning depts!
+I should also mention Tesla Solar have announced they will be shortly withdrawing from the market place, so a Tesla Solar Roof is no longer a consumer option. Shame, they look so much nicer in olde world Europe and the UK, and yet strangely the planning dept's of council's, dont seem to care too much about giant slabs of solar panels being in keeping with their surroundings.... Awkward Hypocrits when thinking of the other hurdles builder's have to jump through with planning depts! Hoever it would be remiss of me to not point out, this the UK Govt's way of creating jobs for those that dont want to spend too much time thinking. Thats why there are no building regs for driveways and patios, life cant be made too complicated with too much paperwork, otherwise nothing would ever get done!
 
 
 The inverters do appear to use the same ```admin``` and ```12345678``` to connect to the USB wifi dongle, which could present problems if the Solar Panel installer hasnt configured and setup the dongle with the app at the time of installation, but it does require scanning the QR code on the dongle which contains the Serial Number and Check Code, that is then used to pair with the Smart Phone App.
 
-The risk here is, the USB dongle could become unusable, forcing the property owner to purchase another USB dongle which will set you back upwards of £10+ plus time, very few of us have.
+The risk here is, the USB dongle could become unusable, forcing the property owner to purchase another USB dongle which will set you back upwards of £10+ plus time, something very few of us have.
 
 A couple of blog posts [here](https://www.whizzy.org/2026-06-14-growatt-shinewifi-x-esphome-modbus-bridge/) and [here](https://medium.com/@rorygallagher2010/flashing-a-growatt-shinewifi-x-replacing-cloud-firmware-with-esphome-for-local-solar-monitoring-99cacaa910f0) show the USB Dongle uses an ESP8266 wifi chip and is a dumb bridge using MODBUS. MODBUS is a communication standard typically found in Industrial Automation, and is an open request-response communication protocol created in 1979 by Modicon (now [Schneider Electric](https://www.se.com) probably more famous for the [APC Battery Backups](https://www.se.com/uk/en/product-range/61883-apc-backups/) for computers and servers) to connect industrial electronic devices. Managed today by the [Modbus Organization](https://www.modbus.org/), it lets control systems talk to sensors, meters, and actuators.
 
-Flashing the USB WiFi dongle firmware using the ESP8266EX must always be done in person for the very first time and only then you can subsequently update the dongles firmware Over The Air (OTA). 
+Flashing the USB WiFi dongle firmware using the ESP8266EX must always be done in person for the very first time and only then you can subsequently update the dongles firmware Over The Air (OTA), if configured to do so. 
 
-This presents a security risk, because if some hacker somewhere in the world subsequently discovers some bugs which can be leveraged, which is often the case if we are being honest, the USB dongle cant be updated remotely unless it was already  configured in the factory to allow OTA updates. So either your solar panel installer needs to come out and update the firmware (who is picking up that cost ___IF___ it gets done), or OTA updates we configured in the factory.
+This presents a security risk, because if some hacker somewhere in the world subsequently discovers some bugs which can be leveraged, which is often the case if we are being honest, the USB dongle cant be updated remotely unless it was already  configured in the factory to allow OTA updates. So either your solar panel installer needs to come out and update the firmware (who is picking up that cost ___IF___ it gets done), or OTA updates were configured in the factory, which then potentially creates a different attack vector, lets hope the wifi comms is at least encrypted so [Wireshark](https://www.wireshark.org/) cant sniff.
 
-A full breakdown of Growatt Inverter codes can be found here https://github.com/pvprodk/GrowattESPHome and may also be similar if not identical to those found in Fox or SunSynk. The clue is the Printed Circuit Board (PCB) design's, where these companies may simply be the same under the covers, because there's only so many ways to design a circuit board and there's only so many electrical components available en-mass globally, but as we see with car brand's sharing the parts bin is common place. 
+A full breakdown of Growatt Inverter codes can be found here https://github.com/pvprodk/GrowattESPHome and may also be similar if not identical to those found in Fox or SunSynk. The clue is the Printed Circuit Board (PCB) design's, where these companies dongles may simply be the same PCB's under the covers, because there's only so many ways to design a circuit board and there's only so many electrical components available en-mass globally, something we see with car brand's sharing the parts bin but adding a brand tax to the part cost.
+
+The Growatt MODBUS tools can be found here. https://github.com/8none1/growatt_modbus
+
+### TLDR
+
+The Wifi might be a risk because it can spread over a distance, so you need to live on a farm to keep prying neighbours at bay!
+
+
+
+
+
+
 
 
 
