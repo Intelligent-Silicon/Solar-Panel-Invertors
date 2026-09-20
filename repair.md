@@ -11,14 +11,16 @@ Quotes from installers to replace the inverter can be expensive, prices can rang
 
 Trade prices for a single phase (domestic household electricity) (<= 3KW) Inverter will be in the range of £200-£400 + VAT (20% - [its still 20%, I remember when it was a single digit!](https://en.wikipedia.org/wiki/Value-added_tax_in_the_United_Kingdom#Historical_rates) )
 
-It will take half a day (<= 4hrs) for 1 person to swap out an old Inverter and replace with a new inverter. I'm being generous with a 4hr time frame for unknowns, but at experienced person could swap an inverter out in 1hr. 
+It will take half a day (<= 4hrs) for 1 person to swap out an old Inverter and replace with a new inverter. I'm being generous with a 4hr time frame for unknowns, but an experienced person could swap a non-identical inverter out in 1-1.5hr, van-job-van.
 
 Disposal of the old inverter will cost from £50 - £200 (+VAT).
 
-| Quote | Quote Ex. Vat | Inverter Trade Price Ex. VAT | Old Disposal Inverter Ex. VAT | Consumables (Cabling, Connectors, etc) Ex. VAT | (4hrs) Labour per hour Ex. VAT |
-| -- | -- | -- | -- | -- | -- |
-| £3000 | £2500 | £400 | £200 | £200 | £425 |
-| £4000 | £3333 | £400 | £200 | £200 | £633 |
+| Quote | Quote Ex. Vat | Inverter Trade Price Ex. VAT | Old Disposal Inverter Ex. VAT | Consumables (Cabling, Connectors, etc) Ex. VAT | 4hrs Labour per hour Ex. VAT | 1hr Labour per hour Ex. VAT |
+| -- | -- | -- | -- | -- | -- | -- |
+| £3000 | £2500 | £400 | £200 | £200 | £425 | £1700 |
+| £4000 | £3333 | £400 | £200 | £200 | £633 | £2533 |
+
+Thats a lot of money, and initial outlay for electrician tools can be put at £1000+VAT, so I guess there's a fair few Rolls Royces parked on driveways in some places....
 
 
 
