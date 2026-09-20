@@ -99,13 +99,15 @@ Well the touted hours of capacitors, like a 1000 hour lifespan is simply 41.6 da
 
 There are also different types of capacitor, DC electro-lytic capacitors and AC filter film capacitors. In traditional liquid electro-lytic capacitors, this is a liquid electrolyte fluid soaked into spacer paper a bit like super absorbent kitchen roll. In modern, premium solid capacitors, this is replaced by a conductive solid polymer material, a bit like the Super Absorbent Polymers you find in absorbent sanitary towels or nappies.
 
-DC capacitors are primarily energy stores smooth out current pulses from the solar panels and store boosted DC voltage, this is why they are popular with high end amplifiers. They help ensure you subwoofers can punch the air consistently better than the drumming beat master on a Dragon boat in a race. Simply put, the Rave and Schranz (German Techno) wouldnt exist today if it wasnt for the humble DC capacitor.
+DC capacitors are primarily energy stores that smooth out Current pulses from the solar panels and store boosted DC voltage, DC filtering capacitors are popular in high end amplifiers for smoothing out the DC fluctuations. They help ensure your subwoofers can punch the air consistently better than the drumming beat master on a Dragon boat in a race. Simply put, the Rave and Schranz (German Techno) scenes wouldnt exist today if it wasnt for the different types of DC capacitors.
 
-AC film capacitors suppress high-frequency noise and spikes on the AC grid side, stopping your ADSL router from getting any signals.
+AC film capacitors suppress high-frequency noise and spikes on the AC grid side.
 
-Metallized Polypropylene Film (MKP) capacitors offer a very long operational lifespan that often exceeds 100,000 hours under normal conditions, frequently lasting 30+ years because they contain no liquid electrolyte to dry out.
+AC Metallized Polypropylene Film (MKP) capacitors offer a very long operational lifespan that often exceeds 100,000 hours under normal conditions, frequently lasting 30+ years because they contain no liquid electrolyte to dry out.
 
-So is this SMA Sunnyboy inverter simply having a mid-life crisis at 14years old? It would seem so....
+Other components on the PCB main board will be built with similar tolerances, unique properties and lifespans to ensure the long life of the product.
+
+So is this SMA Sunnyboy inverter simply having a mid-life crisis at 14years old? It would seem so if all it needs is its varistors changed...
 
 
 
