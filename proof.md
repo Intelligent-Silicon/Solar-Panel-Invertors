@@ -51,7 +51,7 @@ Whilst laptops are very common and convenient, desktops computers are still popu
 
 ![Battery 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery2.jpg)
 
-Batteries from an [![APC Back-UPS RS 1500 BR1500LCDI](https://i.ebayimg.com/images/g/jDsAAOSw2QxcbBBK/s-l1600.jpg)](https://www.ebay.co.uk/itm/183693426403) costing today £10,193.94 on Ebay!!!
+Batteries from an APC Back-UPS RS 1500 BR1500LCDI [![APC Back-UPS RS 1500 BR1500LCDI](https://i.ebayimg.com/images/g/jDsAAOSw2QxcbBBK/s-l1600.jpg)](https://www.ebay.co.uk/itm/183693426403) costing today £10,193.94 on Ebay!!!
 
 ![Blown Batteries Top Down](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/BlownBatteriesTopDown.jpg)
 
