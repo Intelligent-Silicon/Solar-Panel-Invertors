@@ -77,6 +77,10 @@ DC capacitors are primarily energy stores smooth out current pulses from the sol
 
 AC film capacitors suppress high-frequency noise and spikes on the AC grid side, stopping your ADSL router from getting any signals.
 
+Metallized Polypropylene Film (MKP) capacitors offer a very long operational lifespan that often exceeds 100,000 hours under normal conditions, frequently lasting 30+ years because they contain no liquid electrolyte to dry out.
+
+So is this SMA Sunnyboy inverter simply having a mid-life crisis at 14years old? It would seem so....
+
 
 
 
