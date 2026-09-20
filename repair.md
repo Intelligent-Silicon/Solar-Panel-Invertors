@@ -1,6 +1,6 @@
 # To Repair or Not Repair
 
-The Inverter in question is a SMA Sunny Boy SB 2500HF-30. Its about 14 years old, installed from 8th Feb 2012, switched on 17th Feb 2012, so 14+ years old and its generated 38MWh of electricity, about £15K at the 43p KWh 2010 Feed-In Tariff Rate (a Govt Hook-Price to ensnare early adopters), but that 38MWh is only a mere £1000 at 2018-onward 3p KWh rates!!!
+The Inverter in question is a SMA Sunny Boy SB 2500HF-30. Installed from 8th Feb 2012, switched on 17th Feb 2012, (yes, they took that long to fit everything!) so 14+ years old and its generated 38MWh of electricity, about £15K at the 43p KWh 2010 Feed-In Tariff Rate (a Govt Hook-Price to ensnare early adopters), but that 38MWh is only a mere £1000 at 2018-onward 3p KWh rates!!!
 
 So is home solar electrical generation even worth it today, or has the British Govt tricked people into fitting eye sores on their roof because these are not Tesla Solar Roof panels...
 
