@@ -45,11 +45,22 @@ Its worth checking text messages to see if there has been any mention of a power
 
 ### Battery Backups
 
-Whilst laptops are very common and convenient, desktops computers are still popular and many will come with a battery backup that logs information. This will also show pertinent information which could be useful.
+Whilst laptops are very common and convenient, desktops computers are still popular and many will come with a battery backup that logs information. This will also show pertinent information which could be useful besides the obvious damage.
 
 ![Battery 1](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery1.jpg)
 
 ![Battery 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Battery2.jpg)
+
+Batteries from an [![APC Back-UPS RS 1500 BR1500LCDI](https://i.ebayimg.com/images/g/jDsAAOSw2QxcbBBK/s-l1600.jpg)](https://www.ebay.co.uk/itm/183693426403) costing today £10,193.94 on Ebay!!!
+
+![Blown Batteries Top Down](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/BlownBatteriesTopDown.jpg)
+
+![Battery 1 Side Blown](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Batt1LabelSide1Blown.jpg)
+
+![Battery 1 Side 2 Blown](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Batt1LabelSide2Blown.jpg)
+
+![Battery 2 Side 1 Blown](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Batt2Side1Blown.jpg)
+
 
 
 ### Windows Event Logs
