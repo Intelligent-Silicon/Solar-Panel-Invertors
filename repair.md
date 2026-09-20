@@ -174,4 +174,6 @@ Another manufacturer that comes up in searches is LittleFuse, and they handily a
 
 At this stage, the helpfully unimaginative part numbers that keep coming up always seem to incorporate similar letters. MOV short for Metal Oxide Varistors and TP for Thermally Protected, or something similar like TMOV in the case of LittleFuse.
 
-Still none of these appear to match the basics of a one legged crimped, about 20-25mm in diameter, red or maroon epoxy coloured varistor though. Has its form factor been changed from a disc to a block or something else? Hard to say with this detective work.
+Still none of these appear to match the basics of a one legged crimped, about 20-25mm in diameter, red or maroon epoxy coloured varistor though. Has its form factor been changed from a disc to a block or something else? Hard to say with this detective work. Only way to find out is for the property owner to get someone in who might carry the stock and swap the varistors out, assuming it is just the varistors. 
+
+Will the Power Company pay for this? hard to say really. The parts are at best £20+vat plus an hour of labour so £150-£300 for the whole job VAT included.
