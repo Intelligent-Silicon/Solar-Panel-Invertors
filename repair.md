@@ -73,6 +73,14 @@ Well the touted hours of capacitors, like a 1000 hour lifespan is simply 41.6 da
 
 There are also different types of capacitor, DC electro-lytic capacitors and AC filter film capacitors. In traditional liquid electro-lytic capacitors, this is a liquid electrolyte fluid soaked into spacer paper a bit like super absorbent kitchen roll. In modern, premium solid capacitors, this is replaced by a conductive solid polymer material, a bit like what you find in absorbent sanitary towels or nappies.
 
+DC capacitors are primarily energy stores smooth out current pulses from the solar panels and store boosted DC voltage, this is why they are popular with high end amplifiers. They help ensure you subwoofers can punch the air consistently better than the drumming beat master on a Dragon boat in a race. Simply put, the Rave and Schranz (German Techno) wouldnt exist today if it wasnt for the humble DC capacitor.
+
+AC film capacitors suppress high-frequency noise and spikes on the AC grid side, stopping your ADSL router from getting any signals.
+
+
+
+
+
 
 
 
