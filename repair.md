@@ -168,7 +168,10 @@ The PDF has some handing product spec tables for different parts, and one that l
 The search continues... Or someone could just open up the Inverter safely and, peel off any sticky plaster-like material that might be obscuring the part number and get the partnumber that way. But who wants to go up inside a faeces covered loft because small birds have got inside and made it their home? You'd have to wear a breathing mask at least, because bird flu is spread through the faeces of birds and it can easily infect humans... But thats another story...
 
 
-At this stage, the unimaginative part numbers that keep coming up always seem to incorporate five letters. MOV short for Metal Oxide Varistors and TP for Thermally Protected. 
-
 [Eaton Electronics](https://www.digikey.co.uk/en/product-highlight/e/eaton/thermally-protected-movs-movtp-series) make some 20mm MOVTP's with a bulk price of £1 to £2 each! Bargain if it doesnt come with minimum spending amounts... Sadly these dont appear to be the right colour, so checking the specs becomes a must. The other thing to note, is their MOVTP's have two crimped legs and SMA use a MOVTP with one crimped leg and have a different colour. The Red/Maroon epoxy colour is standard insulation for high temperature circuit protect components. In the Youtube video showing the inverter, the discs also look quite big being somewhere between 20mm upwards...
 
+Another manufacturer that comes up in searches is LittleFuse, and they handily also provide a [data sheet](https://www.littelfuse.com/assetdocs/varistors-tmov-datasheet?assetguid=bd475732-1071-4352-b8aa-f78b0007eb05). Here we can see they provide these varistors in a variety of formats, like inner crimps in the legs, outer crimps in the legs, and straight legs with one shorter than the other. 
+
+At this stage, the helpfully unimaginative part numbers that keep coming up always seem to incorporate five letters. MOV short for Metal Oxide Varistors and TP for Thermally Protected, or something similar like TMOV in the case of LittleFuse.
+
+Still none of these appear to match the basics of one legged crimped, about 20-25mm in diameter, red or maroon epoxy varistor though. Has its form factor been changed from a disc to a block or something else? Hard to say with this detective work.
