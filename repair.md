@@ -61,6 +61,8 @@ Anyway, again it should take no more than 1hr for an incompetent person to compl
 
 Seems like a no brainer when looking at the pittance todays Feed-In tariff pays...
 
+Is it any wonder why solar panel installer's can fit things in days, well before the legal cooling off period (because you invited them into your home) has expired, and yet trying to get a builder to do simple jobs, takes months and years... Why is that? Is it the lack of money thats involved? Thats probably why unemployment is so high in the UK!
+
 ### What about Warranties?
 
 What about warranties? Well, alot of the parts are designed for decades long use. The parts that break like the varistors are designed to be swapped out, but other components are designed for decades of long life provided the varistors do their job and protect from lightning strikes hitting the solar panels, or spikes coming from appliances in the property or national grid mains. In practice, there arent really any household devices which can take out a invertor mains side, but builders power tools in neighbouring properties can, as can industrial or old farm machinery in the location. And farmer's love buying their humongous gadgets that typically attach to tractors, using them for a season or two before leaving them lying around the farm to rust away as their ADHD kicks in which doesnt exist according to Channel 4!
