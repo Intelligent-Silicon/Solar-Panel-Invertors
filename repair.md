@@ -49,11 +49,22 @@ Each of those forms (DC or AC), also have a number of properties, but the main o
 
 However these solar panel inverters do have one main job, to convert to DC into AC for the mains. Now as seen with the JLR new Defender, converting DC 12v into DC 48v, is not easy, its not straight forward, so DC has to be converted into AC, do some other things to it before it can become DC 48V for the mild hybrid motors. This process will always generate heat and losses will be incurred because that Heat is some of the original DC 12V. So meters will often measure one side of the process, either the DC coming in from the solar panels or the AC going to the mains. As UK regulations require a separate (Feed-In Tariff) meter to be fitted between the inverter and main fuse box, this is to ensure manufacturers can not game their meter readings and make it look like they are returning more electricity to the grid than its really doing. These Feed-In Tariff meters are the independent check much like a referee or adjudicator. But its always good to know how much DC is coming from the solar panels and how much is leaving the inverter before it gets the FIT meter because it can highlight problems with the solar panels and wiring.
 
-Anyway this video shows you what the Varistors look like. It starts from 6:50 and shows you the two varistors in question. These are triple legged for temperature data, but cheaper two legged versions can be found online starting from as little as 8pence! They are cheap and disposable for the reason they are a sacrificial lamb.
+Anyway this video shows you what the Varistors look like. It starts from 6:50 and shows you the two varistors in question. These are triple legged for temperature data, but cheaper two legged versions can be found online starting from as little as 8pence! They are cheap and disposable for the reason they are the sacrificial lambs to protect the main board.
 
 [![SMA HF](https://img.youtube.com/vi/svQkEsFzQag/0.jpg)](https://youtu.be/svQkEsFzQag?t=410)
 
-https://youtu.be/svQkEsFzQag?t=410
+
+The parts come in a kit, complete with a tool to release the clamps holding the legs of the varistor in place. There is one Crimped Leg so you put them in the right way round and not backwards. In the video, the black block has the crimped leg on the left, and the blue block has the crimped leg on the right, but check the manual to make sure this hasnt changed in more recent revisions, or just pay attention to the side the crimped leg is in when you take the old ones out. Even better, take a video or photo of the old one's in place, so you have some proof of competence, because everyone has a mobile phone now a days, or better still wear a head cam like Francis Bourgeois does when trainspotting and upload your face to Youtube when you do electrocute yourself so we can all have a good laugh!
+
+
+Anyway, again it should take no more than 1hr for an incompetent person to complete this task, so realistically you can replace the parts for £50. 
+
+Seems like a no brainer when looking at the pittance todays Feed-In tariff pays...
+
+### What about Warranties?
+
+What about warranties? Well, alot of the parts are designed for decade long use. The parts that break like the varistors are designed to be swapped out, but other components are designed for a long life provided the varistors do their job and protect from lightning strikes hitting the solar panels, or spikes coming the national grid mains.
+
 
 
 
