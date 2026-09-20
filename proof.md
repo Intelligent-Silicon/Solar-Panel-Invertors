@@ -34,6 +34,14 @@ Its worth checking text messages to see if there has been any mention of a power
 
 ![Power Alert 2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsg3Small.jpg)
 
+![SMS Backup](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/SMSBackup.jpg)
+
+[Android SMS Backup](https://play.google.com/store/apps/details?id=com.riteshsahu.SMSBackupRestore&hl=en_GB)
+
+[iPhone SMS Export to XML file](https://apps.apple.com/us/app/sms-export/id316914912)
+
+[XML Notepad](https://microsoft.github.io/XmlNotepad/)
+
 
 ### Battery Backups
 
