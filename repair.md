@@ -97,7 +97,7 @@ The capacitors usually fitted which help smooth the mostly tiny power fluctuatio
 
 Well the touted hours of capacitors, like a 1000 hour lifespan is simply 41.6 days, thats not alot, but as always, the devil is in the detail. Their lifespan is a rating at a maximum temperature, typically like 105 Degrees Celsius! Your loft is not going to get that hot, otherwise you will be calling the Fire brigade for them to do a post mortem analysis on the remains of your home...
 
-There are also different types of capacitor, DC electro-lytic capacitors and AC filter film capacitors. In traditional liquid electro-lytic capacitors, this is a liquid electrolyte fluid soaked into spacer paper a bit like super absorbent kitchen roll. In modern, premium solid capacitors, this is replaced by a conductive solid polymer material, a bit like what you find in absorbent sanitary towels or nappies.
+There are also different types of capacitor, DC electro-lytic capacitors and AC filter film capacitors. In traditional liquid electro-lytic capacitors, this is a liquid electrolyte fluid soaked into spacer paper a bit like super absorbent kitchen roll. In modern, premium solid capacitors, this is replaced by a conductive solid polymer material, a bit like the Super Absorbent Polymers you find in absorbent sanitary towels or nappies.
 
 DC capacitors are primarily energy stores smooth out current pulses from the solar panels and store boosted DC voltage, this is why they are popular with high end amplifiers. They help ensure you subwoofers can punch the air consistently better than the drumming beat master on a Dragon boat in a race. Simply put, the Rave and Schranz (German Techno) wouldnt exist today if it wasnt for the humble DC capacitor.
 
