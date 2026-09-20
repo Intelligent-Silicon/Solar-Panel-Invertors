@@ -63,7 +63,8 @@ Seems like a no brainer when looking at the pittance todays Feed-In tariff pays.
 
 ### What about Warranties?
 
-What about warranties? Well, alot of the parts are designed for decade long use. The parts that break like the varistors are designed to be swapped out, but other components are designed for a long life provided the varistors do their job and protect from lightning strikes hitting the solar panels, or spikes coming the national grid mains.
+What about warranties? Well, alot of the parts are designed for decades long use. The parts that break like the varistors are designed to be swapped out, but other components are designed for decades of long life provided the varistors do their job and protect from lightning strikes hitting the solar panels, or spikes coming the national grid mains.
+
 
 
 
