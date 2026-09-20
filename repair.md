@@ -38,7 +38,7 @@ Thats a lot of money, and initial outlay for electrician tools can be put at £1
 
 The [Installation Manual of the Inverter SB 2500HF-30](https://www.inbalance-energy.co.uk/datasheets_downloads/SunnyBoy/sb2000-3000hf_installation_manual.pdf) also lists "Accessories" Page 93 which are also known as "Wearable" parts, to avoid people getting the mistaken belief this is a low risk job that involves consumables like replacing the inkjet or laser toner in a printer.
 
-The manual also provides guidance on how to test the SMA inverter (Failure Search). Any competent person is capable of doing this if they can read and write AND follow instructions properly like a robot, because the manual tells you how to safely shutdown the inverter, break it apart, test before reassembling and start it back up so there is no guess work. You just need the right tools because nobody wants this to happen....
+The manual also provides guidance on how to test the SMA inverter (Failure Search). Any competent person is capable of doing this if they can read and write AND follow instructions properly like a robot, because the manual tells you how to safely shutdown the inverter, break it apart, test before reassembling and start it back up so there is no guess work. You just need the right tools because nobody wants this to happen.... (Click to watch on Youtube - its funny)
 
 [![Banana in the Eye](https://img.youtube.com/vi/NaEfU47QY_k/0.jpg)](https://www.youtube.com/watch?v=NaEfU47QY_k)
 
