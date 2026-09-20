@@ -83,9 +83,9 @@ Even better, take a video or photo of the old one's in place, so you have some p
 
 Anyway, again it should take no more than 1hr for an incompetent person to complete this task, so realistically you can replace the varistors for cost price which is from a [bullseye](https://mudskipperpress.com/2024/08/30/a-quick-guide-to-cockney-rhyming-slang-for-money/) upwards depending on who you know...
 
-Seems like a no brainer when looking at the pittance todays Feed-In tariff pays...
+Seems like a no brainer when looking at the pittance todays Feed-In Tariff pay out.
 
-Is it any wonder why solar panel installer's can fit things in days, well before the legal cooling off period (because you invited them into your home) has expired, and yet trying to get a builder to do simple jobs, takes months and years... Why is that? Is it the lack of money thats involved? Thats probably why unemployment is so high in the UK!
+Is it any wonder why solar panel installer's can fit things in days, well before the legal cooling off period has expired (because you invited them into your home), and yet trying to get a builder to do simple jobs, takes months and years before they turn up... Why is that? Is it the lack of money thats involved? Thats probably why unemployment is so high in the UK!
 
 ### What about Warranties?
 
