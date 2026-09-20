@@ -81,7 +81,7 @@ In the video, the black block has the crimped leg on the left, and the blue bloc
 Even better, take a video or photo of the old one's in place, so you have some proof of competence, because everyone has a mobile phone now a days, or better still wear a head cam like [Francis Bourgeois](https://youtu.be/i5deifathaM?t=788) does when trainspotting and upload your face to Youtube when you do electrocute yourself so we can all have a good laugh!
 
 
-Anyway, again it should take no more than 1hr for an incompetent person to complete this task, so realistically you can replace the varistors for cost price (prices from a [nifty](https://cockneyrhymingslang.co.uk/slang/nifty-fifty-pounds/) upwards).
+Anyway, again it should take no more than 1hr for an incompetent person to complete this task, so realistically you can replace the varistors for cost price which is from a bullseye](https://mudskipperpress.com/2024/08/30/a-quick-guide-to-cockney-rhyming-slang-for-money/) upwards depending on who you know...
 
 Seems like a no brainer when looking at the pittance todays Feed-In tariff pays...
 
