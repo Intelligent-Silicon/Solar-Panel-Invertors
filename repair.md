@@ -130,14 +130,14 @@ Page 83 of the manual above shows the DC input and AC output, but there may well
 | Max DC Volts | 700v | at 10 Deg Celsius |
 | Max DC Power | 2650W | |
 | Max AC Power | 2500VA | |
-| Max Current | 14.2A | |
+| Diameter | 7mm | |
 
 
 ```Watts = Volts × Current (Amps)```
 
 So can we find any triple legged varistors online?
 
-Yes [here](https://www.littelfuse.com/products/overvoltage-protection/varistors/thermally-protected) and they also happen to have a similar red colour as the blacked out picture in the Wattuned.com website showing the image of the actual part, 
+Yes [here](https://www.littelfuse.com/products/overvoltage-protection/varistors/thermally-protected) and the parts also happen to have a red colour despite being blacked out in the picture. That colour red is also a clue...
 
 Now Wattuneed.com also has a little Ai helper on their website and whilst its not worth tricking it to get some free varistors but might be worth it on a car dealers websites like [here](https://www.thesun.co.uk/motors/25091054/driver-uses-ai-loophole-buy-new-car-1/), its always worth asking these Ai's for information, you never know what they might give out... 
 
@@ -162,8 +162,13 @@ I do not have the exact electrical rating values in our verified database; pleas
 
 It was worth a try...
 
-Fortunately [Farnell](https://www.farnell.com/datasheets/4424064.pdf) provide datasheets for components. 
+Fortunately [Farnell](https://www.farnell.com/datasheets/4424064.pdf) provide datasheets for components including for "thermally monitored varistors".
+The PDF has some handing product spec tables for different parts, and one that looks interesting because it can handle the DC and AC and has a similar max voltage of 2500V has the part number ```MPTFMOV20M550``` but its got four legs. That wont work, but can I find a three legged version with similar specs? 
+
+The search continues... Or someone could just open up the Inverter safely and, peel off any sticky plaster-like material that might be obscuring the part number and get the partnumber that way. But who wants to go up inside a faeces covered loft because small birds have got inside and made it their home? You'd have to wear a breathing mask at least, because bird flu is spread through the faeces of birds and it can easily infect humans... But thats another story...
 
 
+At this stage, the unimaginative part numbers that keep coming up always seem to incorporate five letters. MOV short for Metal Oxide Varistors and TP for Thermally Protected. 
 
+[Eaton Electronics](https://www.digikey.co.uk/en/product-highlight/e/eaton/thermally-protected-movs-movtp-series) make some 20mm MOVTP's with a bulk price of £1 to £2 each! Bargain if it doesnt come with minimum spending amounts... Sadly these dont appear to be the right colour, so checking the specs becomes a must. The other thing to note, is their MOVTP's have two crimped legs and SMA use a MOVTP with one crimped leg and have a different colour. The Red/Maroon epoxy colour is standard insulation for high temperature circuit protect components. In the Youtube video showing the inverter, the discs also look quite big being somewhere between 20mm upwards...
 
