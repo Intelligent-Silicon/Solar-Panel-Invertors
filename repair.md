@@ -20,16 +20,26 @@ Disposal of the old inverter will cost from £50 - £200 (+VAT).
 | £3000 | £2500 | £400 | £200 | £200 | £425 | £1700 |
 | £4000 | £3333 | £400 | £200 | £200 | £633 | £2533 |
 
-Thats a lot of money, and initial outlay for electrician tools can be put at £1000+VAT, so I guess there's a fair few Rolls Royces parked on driveways in some places....
+Thats a lot of money, and initial outlay for electrician tools can be put at £1000+VAT, so I guess there's a fair few Porsche 911 GT3 RS's parked on driveways in some places....
 
 
 
 ### Spare Parts
 
-The Manual of the Inverter SB 2500HF-30 also lists "Consumables" (much like printer toner or inkjet) which are known as "Wearable" parts, to avoid people getting the mistaken belief this is a low risk job.
+The [Installation Manual of the Inverter SB 2500HF-30](https://www.inbalance-energy.co.uk/datasheets_downloads/SunnyBoy/sb2000-3000hf_installation_manual.pdf) also lists "Accessories" Page 93 which are also known as "Wearable" parts, to avoid people getting the mistaken belief this is a low risk job.
 
-The manual also provides guidance on how to test the SMA inverter. Any competent person is capable of doing this if they can read and write, because the manual tells you how to safely shutdown the inverter, break it apart and start it back up so there is no guess work. You just need the right tools because nobody wants this to happen....
+The manual also provides guidance on how to test the SMA inverter (Failure Search). Any competent person is capable of doing this if they can read and write, because the manual tells you how to safely shutdown the inverter, break it apart and start it back up so there is no guess work. You just need the right tools because nobody wants this to happen....
 
 [![Banana in the Eye](https://img.youtube.com/vi/NaEfU47QY_k/0.jpg)](https://www.youtube.com/watch?v=NaEfU47QY_k)
+
+
+Page 93 lists as the very first option the Varistors. ```MSWR-TV-7  Replacement Varistors Set of thermally monitored varistors (2pc)```. 
+
+There will be two of these because these are cheaper equivalent of the IGBT ( Insulated-gate bipolar transistor ) which are the sacrifical lamb in PCB design, to protect the main board. 
+
+There's two power sources, one from the solar and one from the mains. These are attack vectors to use a hacking term, so they need to ensure the power coming into be "processed" doesnt get out of hand. They are like nightclub bouncers, if the electricity coming in doesnt look good, its not coming into the party on the main board!
+
+Now its worth mentioning that party on the main board. Electricity primarily comes into two forms, DC (Direct Current) and AC (Alternating Current). DC travels in one direction, where as AC is always shuffling backwards and forwards, making the other electrons around it shuffle backwards and forwards. Anyone who has ever consumed gram amounts of the fat soluble Zinc Acetate DiHydrate to permanently disable common cold (SARS aka Covid) viruses will be able to feel the electrical fields that leak out of unshielded cables which we witness as electrical interference. If you havent done this, but have put a 9v battery on your tongue and experienced a painful sensation will have experienced the mild directional current of DC voltage. Those who have tripped the RCD fusebox, holding onto 240V mains electrical cables (definitely not advised) to see how long the RCD main fuse box takes to trip, will know what AC feels like travelling through the body in its painful backwards and forwards wave-like motion as it heads to planet earth...
+
 
 
