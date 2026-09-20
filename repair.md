@@ -10,7 +10,7 @@ It will take half a day (<= 4hrs) for 1 person to swap out an old Inverter and r
 
 Disposal of the old inverter will cost from £50 - £200 (+VAT).
 
-|-- Quote --|-- Quote Ex. Vat --|-- Inverter Trade Price Ex. VAT --|-- Old Disposal Inverter Ex. VAT --|-- Consumables (Cabling, Connectors, etc) Ex. VAT --|-- (4hrs) Labour per hour Ex. VAT --|
+| Quote | Quote Ex. Vat | Inverter Trade Price Ex. VAT | Old Disposal Inverter Ex. VAT | Consumables (Cabling, Connectors, etc) Ex. VAT | (4hrs) Labour per hour Ex. VAT |
 | -- | -- | -- | -- | -- | -- |
 | £3000 | £2500 | £400 | £200 | £200 | £425 |
 | £4000 | £3333 | £400 | £200 | £200 | £633 |
