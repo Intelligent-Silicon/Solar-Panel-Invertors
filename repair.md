@@ -45,7 +45,7 @@ The manual also provides guidance on how to test the SMA inverter (Failure Searc
 
 Page 93 lists as the very first option the Varistors. ```MSWR-TV-7  Replacement Varistors Set of thermally monitored varistors (2pc)```. 
 
-There will be two of these because these are cheaper equivalents of the IGBT ( Insulated-gate bipolar transistor ) which are the sacrificial lamb in PCB design, to protect the main board.
+There will be two of these because these are cheaper equivalents of the IGBT ( Insulated-gate bipolar transistor ) both are the sacrificial lamb in PCB design, to protect the main board.
 
 They cut out when they get too hot, and they get hot because too much electricity passes through them in one form (voltage) or another (amps). 
 
@@ -53,7 +53,9 @@ There's two power sources, one from the solar panels and one from the mains. The
 
 Now its worth mentioning that Party on the main board. 
 
-Electricity primarily comes into two forms, DC (Direct Current) and AC (Alternating Current). DC travels in one direction, where as AC is always shuffling backwards and forwards, making the other electrons around it shuffle backwards and forwards. Anyone who has ever consumed gram amounts of the fat soluble Zinc Acetate DiHydrate to permanently disable the common cold (SARS aka Covid) viruses will be able to feel the electrical fields that leak out of unshielded cables which we witness as electrical interference. You can even tell your NHS GP this fact and they wont realise the increased amount of metals will increase the matrix metalloproteinases that break down your body, so why do we pay taxes for this level of incompetence in the UK? If you havent done this, but have put a 9v battery on your tongue and experienced a painful sensation will have experienced the mild directional current of DC voltage. Those who have tripped the RCD fusebox, holding onto 240V mains electrical cables (definitely not advised) to see how long the RCD main fuse box takes to trip, will know what AC feels like travelling through the body in its painful backwards and forwards wave-like motion as it heads to planet earth...
+Electricity primarily comes in two forms, DC (Direct Current) and AC (Alternating Current). DC travels in one direction, where as AC is always shuffling backwards and forwards, making the other electrons around it shuffle backwards and forwards. 
+
+Anyone who has ever consumed gram amounts of the fat soluble Zinc Acetate DiHydrate to permanently disable the common cold (SARS aka Covid) viruses will be able to feel the electrical fields that leak out of unshielded cables which we witness as electrical interference. You can even tell your NHS GP this fact and they wont realise the increased amount of metals will increase the matrix metalloproteinases that break down your body, so why do we pay taxes for this level of incompetence in the UK? If you havent done this, but have put a 9v battery on your tongue and experienced a painful sensation will have experienced the mild directional current of DC voltage. Those who have tripped the RCD fusebox, holding onto 240V mains electrical cables (definitely not advised) to see how long the RCD main fuse box takes to trip, will know what AC feels like travelling through the body in its painful backwards and forwards wave-like motion as it heads to planet earth...
 
 Each of those forms (DC or AC), also have a number of properties, but the main one's to be aware of are Voltage and Current (Amps). These could be likened to Horse Power (volts) and Torque (current), if you are a vehicle aficionado. Its the current that does the work, much like its torque that gets the vehicle moving quickly. There are other properties like the wave form(s) it might take which is where multiple signals like ADSL can be sent down the cable along with other alarm signals, but thats not really important here. 
 
