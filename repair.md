@@ -19,11 +19,11 @@ Some Hybrid Inverters even come with a small battery attached, but would you rea
 
 Do you want to risk these lithium ion battery's in your loft going into Thermal Runaway, which is similar to Thermo Nuclear Runaway, but just without the radiation? 
 
-The Fire Brigade require EV vehicle manufacturers to provide them with documents on how best to contain the EV battery fires. And yes Lithium Stearate is used to make PE4 aka C-$, the British equivalent of Semtex! Spot where taxpayers money in the early 1900's was being prioritised, do you think things have changed today? Dont let the so called "Free" British Press fool you...
+The Fire Brigade require EV vehicle manufacturers to provide them with documents on how best to contain the EV battery fires. And yes Lithium Stearate is used to make PE4 aka C-4, the British equivalent of Semtex! Spot where taxpayers money in the early 1900's was being prioritised, do you think things have changed today? Dont let the so called "Free" British Press fool you...
 
-It will take half a day (<= 4hrs) for 1 person to swap out an old Inverter and replace with a new inverter. I'm being generous with a 4hr time frame for unknowns, but an experienced person could swap a non-identical inverter out in 1-1.5hr, van-job-van.
+It will take half a day (<= 4hrs) for 1 person to swap out an old Inverter and replace with a new inverter. I'm being generous with a 4hr time frame for unknowns, but an experienced person could swap a non-identical inverter out in 1-1.5hrs, van-job-van.
 
-Disposal of the old inverter will cost from £50 - £200 (+VAT).
+Disposal of the old inverter will cost from £50 - £200 (+VAT). But is this more of the "A fool and his money are soon parted" because of environmental reasons, despite the fact that all man-made waste came from Planet Earth?
 
 | Quote | Quote Ex. Vat | Inverter Trade Price Ex. VAT | Old Disposal Inverter Ex. VAT | Consumables (Cabling, Connectors, etc) Ex. VAT | 4hrs Labour per hour Ex. VAT | 1hr Labour per hour Ex. VAT |
 | -- | -- | -- | -- | -- | -- | -- |
