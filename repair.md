@@ -1,8 +1,10 @@
 # To Repair or Not Repair
 
-The Inverter in question is a SMA Sunny Boy SB 2500HF-30. Installed from 8th Feb 2012, switched on 17th Feb 2012, (yes, they took that long to fit everything!) so 14+ years old and its generated 38MWh of electricity, about £15K at the 43p KWh 2010 Feed-In Tariff Rate (a Govt Hook-Price to ensnare early adopters), but that 38MWh is only a mere £1100 at 2018-onward 3p KWh rates!!!
+The Inverter in question is a SMA Sunny Boy SB 2500HF-30. Installed from 8th Feb 2012, switched on 17th Feb 2012, (yes, they took that long to fit everything!) so 14+ years old and its generated 38MWh of electricity, about £15K at the 43p KWh 2010 Feed-In Tariff Rate (a Govt Hook-Price to ensnare early adopters), but that 38MWh is only a mere £1100 at 2018-onward 3p KWh Feed-In Tariff Rates!!!
 
-So is home solar electrical generation even worth it today? Or has the British Govt tricked people into fitting eye sores on their roof because these are not Tesla Solar Roof panels...
+So is home solar electrical generation even worth it today?
+
+Or has the British Govt tricked people into fitting eye sores on their roof because these are not Tesla Solar Roof panels...
 
 
 ### Quotes 
@@ -10,6 +12,10 @@ So is home solar electrical generation even worth it today? Or has the British G
 Quotes from installers to replace the inverter can be expensive, prices can range between £3000 to £4000 (Sept 2026) to replace the inverter. Getting the model numbers in quotes can be difficult, making it harder to see whether value for money is being offered or not.
 
 Trade prices for a single phase (domestic household electricity) (<= 3KW) Inverter will be in the range of £200-£400 + VAT (20% - [its still 20%, I remember when it was a single digit!](https://en.wikipedia.org/wiki/Value-added_tax_in_the_United_Kingdom#Historical_rates) )
+
+This particular SMA Sunny model is a hybrid model so batteries can be hooked up. A typical 3KW Hybrid inverter without batteries will cost about £500-£700+vat at Trade prices. 
+
+Some Hybrid Inverters even come with a small battery attached, but would you really want one of those in your loft, when we all know when the batteries overheat in Electrical Vehicles, the Fire Brigade cant put them out, they can only stop the fire from spreading until the batteries burn out. Do you want to risk these lithium ion battery's in your loft going into Thermal Runaway, which is similar to Thermo Nuclear Runaway, but just without the radiation? The Fire Brigade require EV vehicle manufacturers to provide them with documents on how best to contain the EV battery fires. And yes Lithium Stearate is used to make PE4 aka C-$, the British equivalent of Semtex! Spot where taxpayers money in the early 1900's was being prioritised, do you think things have changed today? Dont let the so called "Free" British Press fool you...
 
 It will take half a day (<= 4hrs) for 1 person to swap out an old Inverter and replace with a new inverter. I'm being generous with a 4hr time frame for unknowns, but an experienced person could swap a non-identical inverter out in 1-1.5hr, van-job-van.
 
