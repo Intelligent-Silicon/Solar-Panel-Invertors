@@ -35,11 +35,25 @@ The manual also provides guidance on how to test the SMA inverter (Failure Searc
 
 Page 93 lists as the very first option the Varistors. ```MSWR-TV-7  Replacement Varistors Set of thermally monitored varistors (2pc)```. 
 
-There will be two of these because these are cheaper equivalent of the IGBT ( Insulated-gate bipolar transistor ) which are the sacrifical lamb in PCB design, to protect the main board. 
+There will be two of these because these are cheaper equivalents of the IGBT ( Insulated-gate bipolar transistor ) which are the sacrificial lamb in PCB design, to protect the main board.
 
-There's two power sources, one from the solar and one from the mains. These are attack vectors to use a hacking term, so they need to ensure the power coming into be "processed" doesnt get out of hand. They are like nightclub bouncers, if the electricity coming in doesnt look good, its not coming into the party on the main board!
+They cut out when they get too hot, and they get hot because too much electricity passes through them in one form (voltage) or another (amps). 
 
-Now its worth mentioning that party on the main board. Electricity primarily comes into two forms, DC (Direct Current) and AC (Alternating Current). DC travels in one direction, where as AC is always shuffling backwards and forwards, making the other electrons around it shuffle backwards and forwards. Anyone who has ever consumed gram amounts of the fat soluble Zinc Acetate DiHydrate to permanently disable common cold (SARS aka Covid) viruses will be able to feel the electrical fields that leak out of unshielded cables which we witness as electrical interference. If you havent done this, but have put a 9v battery on your tongue and experienced a painful sensation will have experienced the mild directional current of DC voltage. Those who have tripped the RCD fusebox, holding onto 240V mains electrical cables (definitely not advised) to see how long the RCD main fuse box takes to trip, will know what AC feels like travelling through the body in its painful backwards and forwards wave-like motion as it heads to planet earth...
+There's two power sources, one from the solar panels and one from the mains. These are attack vectors to use a hacking term, so they need to ensure the power coming into be "processed" doesnt get out of hand. They are like nightclub bouncers, if the electricity coming in doesnt look good, its not coming into the party on the main board!
+
+Now its worth mentioning that Party on the main board. 
+
+Electricity primarily comes into two forms, DC (Direct Current) and AC (Alternating Current). DC travels in one direction, where as AC is always shuffling backwards and forwards, making the other electrons around it shuffle backwards and forwards. Anyone who has ever consumed gram amounts of the fat soluble Zinc Acetate DiHydrate to permanently disable common cold (SARS aka Covid) viruses will be able to feel the electrical fields that leak out of unshielded cables which we witness as electrical interference. If you havent done this, but have put a 9v battery on your tongue and experienced a painful sensation will have experienced the mild directional current of DC voltage. Those who have tripped the RCD fusebox, holding onto 240V mains electrical cables (definitely not advised) to see how long the RCD main fuse box takes to trip, will know what AC feels like travelling through the body in its painful backwards and forwards wave-like motion as it heads to planet earth...
+
+Each of those forms (DC or AC), also have a number of properties, but the main one's to be aware of are Voltage and Current (Amps). These could be likened to Horse Power (volts) and Torque (current), if you are a vehicle aficionado. Its the current that does the work, much like its torque that gets the vehicle moving quickly. There are other properties like the wave form(s) it might take which is where multiple signals like ADSL can be sent down the cable along with other alarm signals, but thats not really important here. 
+
+However these solar panel inverters do have one main job, to convert to DC into AC for the mains. Now as seen with the JLR new Defender, converting DC 12v into DC 48v, is not easy, its not straight forward, so DC has to be converted into AC, do some other things to it before it can become DC 48V for the mild hybrid motors. This process will always generate heat and losses will be incurred because that Heat is some of the original DC 12V. So meters will often measure one side of the process, either the DC coming in from the solar panels or the AC going to the mains. As UK regulations require a separate (Feed-In Tariff) meter to be fitted between the inverter and main fuse box, this is to ensure manufacturers can not game their meter readings and make it look like they are returning more electricity to the grid than its really doing. These Feed-In Tariff meters are the independent check much like a referee or adjudicator. But its always good to know how much DC is coming from the solar panels and how much is leaving the inverter before it gets the FIT meter because it can highlight problems with the solar panels and wiring.
+
+Anyway this video shows you what the Varistors look like. It starts from 6:50 and shows you the two varistors in question. These are triple legged for temperature data, but cheaper two legged versions can be found online starting from as little as 8pence! They are cheap and disposable for the reason they are a sacrificial lamb.
+
+[![SMA HF](https://img.youtube.com/vi/svQkEsFzQag/0.jpg)](https://youtu.be/svQkEsFzQag?t=410)
+
+https://youtu.be/svQkEsFzQag?t=410
 
 
 
