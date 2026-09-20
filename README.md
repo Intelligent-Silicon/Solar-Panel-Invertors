@@ -38,7 +38,7 @@ Property Electrical Equipment
 
 [The Burden of Proof](proof.md)
 
-
+[To Repair or Not Repair](repair.md)
 
 
 ## Security Risks to Equipment by Hackers
