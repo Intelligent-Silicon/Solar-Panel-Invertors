@@ -112,10 +112,52 @@ So is this SMA Sunnyboy inverter simply having a mid-life crisis at 14years old?
 
 
 
+### Whats the Real Varistor Price?
+
+So whats the real Varistor price considering is highly unlikely the part was made by SMA and like some car parts came from a parts bin?
+
+Well [here](https://www.wattuneed.com/en/spare-parts/27770-2-pc-thermally-monitored-varistors.html) and in the youtube video above you can see the varistor's have been obscured, this is to hide the actual part number which also suggests its come from a part's bin somewhere. 
+
+So where do you look? 
+
+One of the simplest way's is to switch off the isolators on both sides of the Inverter to isolate the Solar Panels and to isolate the Mains electricity and then lift the hood so to speak to find the part number of the item. Now its possible there may be some sticky plaster-like material wrapped around the varistor, as seen in the Youtube video link above, but knowing the voltages which must not be exceeded which will be showing in the specifications will also give you a clue of what to look for. 
+
+Page 83 of the manual above shows the DC input and AC output, but there may well be a buffer in those values, partly because these are standardised parts from a parts bin.
+
+| Requirement | Value | Notes |
+| -- | -- | -- |
+| Min DC Volts | 175v | |
+| Max DC Volts | 700v | at 10 Deg Celsius |
+| Max DC Power | 2650W | |
+| Max AC Power | 2500VA | |
+| Max Current | 14.2A | |
 
 
+```Watts = Volts × Current (Amps)```
+
+So can we find any triple legged varistors online?
+
+Yes [here](https://www.littelfuse.com/products/overvoltage-protection/varistors/thermally-protected) and they also happen to have a similar red colour as the blacked out picture in the Wattuned.com website showing the image of the actual part, 
+
+Now Wattuneed also has a little Ai help, so its always worth asking these Ai's for information, you never know what they might give out... 
+
+What are the product specs for these varistors?
+
+The verified specifications available in our catalog for the SMA MSWR-TV7 Varistors (view product on wattuneed.com) are as follows:
+
+* Manufacturer: SMA
+* Reference: MSWR-TV7
+* Quantity: Pack of 2 pieces
+* Component Type: Thermally monitored varistors (OEM spare parts for surge protection with integrated thermal disconnection)
+* Catalog/Shipping Weight: 2.5 kg
+
+Detailed electrical ratings (such as maximum continuous operating voltage U_c, nominal/maximum discharge current I_n / Imax, or clamping voltage) are not documented in the catalog datasheet. As an original equipment manufacturer (OEM) replacement set, SMA specifies this part directly by reference code (MSWR-TV7) to match the internal power stages of specific SMA inverter series.
+
+I do not have the exact electrical rating values in our verified database; please have these confirmed by our technical team or check your inverter’s service manual before installation:
+* Email: info@wattuneed.com
+* Phone: +32 87 45 00 34
 
 
-
+It was worth a try...
 
 
