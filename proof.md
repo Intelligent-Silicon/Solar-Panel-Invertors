@@ -76,7 +76,7 @@ You will see a screen similar to this. You will need to expand the nodes on the 
 ![Event Viewer](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr.jpg)
 
 
-Here we can see a gap between 14:40:49 and 17:33:00 indicating a possible power event, if a battery backup was not connected to a desktop.
+Here we can see a gap between 14:40:49 and 17:33:00 indicating a possible power event, if a battery backup was not connected to a desktop or got taken out by the power event!
 ![Event Viewer2](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/EventVwr2.jpg)
 
 Here we can see an Event Log entry suggesting the device is starting up. Session 0 in Windows is a dedicated, isolated system session that hosts background services and critical operating system processes rather than interactive user applications. From a hacking perspective, a background service is ideal because it can gain the highest level of security well above user accounts using Administrator level of security, and it gains Persistence, by virtue of being a background service, out of sight out of mind.
