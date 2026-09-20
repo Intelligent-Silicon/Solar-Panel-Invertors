@@ -65,6 +65,14 @@ Seems like a no brainer when looking at the pittance todays Feed-In tariff pays.
 
 What about warranties? Well, alot of the parts are designed for decades long use. The parts that break like the varistors are designed to be swapped out, but other components are designed for decades of long life provided the varistors do their job and protect from lightning strikes hitting the solar panels, or spikes coming the national grid mains.
 
+The capacitors usually fitted which help smooth the mostly tiny power fluctuations from the power source, are like fast acting Virtual Batteries. Most people will have heard of MOS-FET (Metal-Oxide-Semiconductor Field-Effect Transistor) capacitors found in high end HiFi amplifiers. So if the lifespan's are touted as so short like a 1000hours, why do second hand HiFi amps still sell for a premium decades later and still work extremely well? HAs your hearing got worse with age so you dont hear how bad the sound has got?
+
+Well the touted hours of capacitors, like a 1000 hour lifespan is simply 41.6 days, thats not alot, but as always, the devil is in the detail. Their lifespan is a rating at a maximum temperature, like 105Degrees Celsius! Your loft is not going to get that hot, otherwise you will be calling the Fire brigade for them to do a post mortem analysis on the remains of your home...
+
+There are also different types of capacitor, DC electrolytic capacitors and AC filter film capacitors. In traditional liquid electrolytic capacitors, this is a liquid electrolyte fluid soaked into spacer paper a bit like super absorbent kitchen rool, . In modern, premium solid capacitors, this is replaced by a conductive solid polymer material, a bit like what you find in sanitary towels or nappies.
+
+
+
 
 
 
