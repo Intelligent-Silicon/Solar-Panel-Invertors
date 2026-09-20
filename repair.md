@@ -78,10 +78,10 @@ There is one Crimped Leg so you put them in the correct way round and not backwa
 
 In the video, the black block has the crimped leg on the left, and the blue block has the crimped leg on the right, but check the manual to make sure this hasnt changed in more recent revisions, or just pay attention to the side the crimped leg is on when you take the old ones out! 
 
-Even better, take a video or photo of the old one's in place, so you have some proof of competence, because everyone has a mobile phone now a days, or better still wear a head cam like Francis Bourgeois does when trainspotting and upload your face to Youtube when you do electrocute yourself so we can all have a good laugh!
+Even better, take a video or photo of the old one's in place, so you have some proof of competence, because everyone has a mobile phone now a days, or better still wear a head cam like [Francis Bourgeois](https://youtu.be/i5deifathaM?t=788) does when trainspotting and upload your face to Youtube when you do electrocute yourself so we can all have a good laugh!
 
 
-Anyway, again it should take no more than 1hr for an incompetent person to complete this task, so realistically you can replace the parts for £50. 
+Anyway, again it should take no more than 1hr for an incompetent person to complete this task, so realistically you can replace the varistors for cost price (prices from a bullseye upwards).
 
 Seems like a no brainer when looking at the pittance todays Feed-In tariff pays...
 
