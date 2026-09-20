@@ -139,10 +139,12 @@ So can we find any triple legged varistors online?
 
 Yes [here](https://www.littelfuse.com/products/overvoltage-protection/varistors/thermally-protected) and they also happen to have a similar red colour as the blacked out picture in the Wattuned.com website showing the image of the actual part, 
 
-Now Wattuneed also has a little Ai help, so its always worth asking these Ai's for information, you never know what they might give out... 
+Now Wattuneed.com also has a little Ai helper on their website and whilst its not worth tricking it to get some free varistors but might be worth it on a car dealers websites like [here](https://www.thesun.co.uk/motors/25091054/driver-uses-ai-loophole-buy-new-car-1/), its always worth asking these Ai's for information, you never know what they might give out... 
 
+```
 What are the product specs for these varistors?
-
+```
+```
 The verified specifications available in our catalog for the SMA MSWR-TV7 Varistors (view product on wattuneed.com) are as follows:
 
 * Manufacturer: SMA
@@ -156,8 +158,12 @@ Detailed electrical ratings (such as maximum continuous operating voltage U_c, n
 I do not have the exact electrical rating values in our verified database; please have these confirmed by our technical team or check your inverter’s service manual before installation:
 * Email: info@wattuneed.com
 * Phone: +32 87 45 00 34
-
+```
 
 It was worth a try...
+
+Fortunately [Farnell](https://www.farnell.com/datasheets/4424064.pdf) provide datasheets for components. 
+
+
 
 
