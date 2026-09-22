@@ -38,6 +38,8 @@ Property Electrical Equipment
 
 [The Burden of Proof](proof.md)
 
+[Inverter Events](inverterevents.md)
+
 [To Repair or Not Repair](repair.md)
 
 
