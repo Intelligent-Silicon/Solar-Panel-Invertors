@@ -88,6 +88,7 @@ The Inverter than registers the first of many ```interference device (64)``` ent
 A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise there after. This self diagnosis event occurs 30-60mins after sunrise.
 
 | Location | Time |
+| -- | -- |
 | Felixstowe | 04:55am |
 | Southampton | 05:03am |
 | Devonport | 05:24am |
