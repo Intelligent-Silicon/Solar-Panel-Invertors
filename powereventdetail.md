@@ -72,7 +72,9 @@ The sun can not be bright enough in the UK to generate an over voltage event at 
 
 The Inverter than registers the first of many ```interference device (64)``` entries in the log from 15th July 2026 at 20:33:11 onwards. 
 
-A ```Self Diagnosis (64)``` event ID starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise + (30-60mins) there after. This will be variable depending on cloud cover.
+A ```Self Diagnosis (64)``` event ID starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise + (30-60mins) there after. This will be variable depending on cloud cover and strength of the sun during different times of the year. 
+
+I hope you understand how sun strength and sun tans work?
 
 | Sunrise | 16th July 2026 |
 | -- | -- |
