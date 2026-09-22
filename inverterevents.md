@@ -108,5 +108,7 @@ Is this what wild fire's can do?
 
 https://en.wikipedia.org/wiki/2026_United_Kingdom_wildfires#England_2
 
+Sadly because the 60day buffer that logs the granular generation data was and is not operational since the varistors being blown, and they werent logged automatically before hand, its hard to say for sure. It would have been nice to even see if solar eclipses affected the solar generation in any noticeable way, but the vast majority of owners are simply not interested in these sort of things. This makes life harder getting to the bottom of problems.
+
 
 
