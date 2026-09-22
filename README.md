@@ -40,6 +40,8 @@ Property Electrical Equipment
 
 [Inverter Events](inverterevents.md)
 
+[Analysing the Power Event in detail](powereventdetail.md)
+
 [To Repair or Not Repair](repair.md)
 
 
