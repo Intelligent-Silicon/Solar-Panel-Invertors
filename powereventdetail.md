@@ -83,9 +83,14 @@ Why does this knowledge below presented on Youtube (click the link) spring to mi
 
 ### Interference Device
 
-The Inverter than registers the first of many ```interference device (64)``` Event ID 64's from 15th July 2026 at 20:33:11 onwards. 
+The Inverter than registers the first of many ```interference device (64)``` entries in the log from 15th July 2026 at 20:33:11 onwards. 
 
-A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise there after. 
+A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise there after. This self diagnosis event occurs 30-60mins after sunrise.
 
-Just as a beside, Sunrise in Southampton was at 05:03am on the 17th July.
+| Location | Time |
+| Felixstowe | 04:55am |
+| Southampton | 05:03am |
+| Devonport | 05:24am |
+
+
 
