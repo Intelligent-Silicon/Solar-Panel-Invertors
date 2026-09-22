@@ -108,7 +108,7 @@ Is this what wild fire's can do?
 
 https://en.wikipedia.org/wiki/2026_United_Kingdom_wildfires#England_2
 
-Sadly because the 60day buffer that logs the granular generation data was and is not operational since the varistors being blown, and they werent logged automatically before hand, its hard to say for sure. It would have been nice to even see if solar eclipses affected the solar generation in any noticeable way, but the vast majority of owners are simply not interested in these sort of things. This makes life harder getting to the bottom of problems.
+Sadly because the 60day buffer that logs the granular generation data was and is not operational since the varistors have blown, and they werent logged automatically before hand, its hard to say for sure. It would have been nice to even see if solar eclipses affected the solar generation in any noticeable way, but the vast majority of owners are simply not interested in these sort of things. This makes life harder getting to the bottom of problems.
 
 
 ### Device
@@ -118,8 +118,7 @@ These are all the events reported by the Inverter. The vast majority are the Eve
 
 | Event ID | Event Description | Problem | SMA Link |
 | -- | -- | -- | -- |
-| 64 | Interference Device (64) | Event is displayed regularly or permanently: Please contact your installer for further investigation and refer to this article.
-Event is displayed once or only rarely and the inverter then reconnects to the grid within a few minutes: No further action required.  | https://my.sma-service.com/s/article/Inverter-Displays-Event-6401?language=en_US |
+| 64 | Interference Device (64) | Event is displayed regularly or permanently: Please contact your installer for further investigation and refer to this article. Event is displayed once or only rarely and the inverter then reconnects to the grid within a few minutes: No further action required.  | https://my.sma-service.com/s/article/Inverter-Displays-Event-6401?language=en_US |
 | 64 | Self Diagnosis (64) | As above | As Above |
 | 10104 | Parameter "Set user password" set successfully (10104) | Parameter "…" set successfully | https://files.sma.de/downloads/NG_PAR-TB-en-22.pdf |
 | 10104 | Parameter "Set installer password" set successfully (10104) | Parameter "…" set successfully | https://files.sma.de/downloads/NG_PAR-TB-en-22.pdf |
