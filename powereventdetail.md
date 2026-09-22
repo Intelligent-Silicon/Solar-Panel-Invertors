@@ -88,6 +88,7 @@ The Inverter than registers the first of many ```interference device (64)``` ent
 A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise there after. This self diagnosis event occurs 30-60mins after sunrise.
 
 | Sunrise | 16th July 2026 |
+| -- | -- |
 | Location | Time |
 | -- | -- |
 | Self Diagnosis | 05:48am | 
