@@ -1,8 +1,5 @@
 # Power Event Detail
 
-15th May 2026 circa 14:50
-
-"Facts"
 
 ### 15th May 2026 13:52:47
 
@@ -26,7 +23,7 @@ Text message received at 14:58
 
 ### 15th May 2026 
 
-Power Generation appears to stop sometime from lunchtime, early afternoon.
+Power Generation appears to stop sometime from lunchtime, early afternoon onwards to today.
 
 ![Inverter Meter Reading](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/InverterData.jpg)
 
@@ -52,10 +49,11 @@ Warning                            Type                    Event                
 
 ### Details...
 
-The Inverter logs an event based on local time (see link below). This is corrected backwards from the when SunnyBoy Explorer software logs on for the first time in Sept 2026 forcing the user and installer default passwords to be changed.
-https://www.sma-sunny.com/en/service-tip-1-setting-the-system-time/
+The Inverter logs an event based on local time ([see link](https://www.sma-sunny.com/en/service-tip-1-setting-the-system-time/)). 
 
-A solar panel Overvoltage event id 3401 are unusual, but so far appear to always occur during the day, suggesting the solar panels are generating too much electricity.
+This is corrected backwards from the when SunnyBoy Explorer software logs on for the first time in Sept 2026 forcing the user and installer default passwords to be changed.
+
+A solar panel ```Overvoltage event id 3401``` are unusual, but appear to always occur during the day, suggesting the solar panels are generating too much electricity.
 
 ```
 10th Feb 2020  09:06:17
@@ -64,7 +62,7 @@ A solar panel Overvoltage event id 3401 are unusual, but so far appear to always
 15th July 2026 13:52:47
 ```
 
-What can cause a solar panel to generate too much, and what are the exact parameters for the SMA Inverter to register this event, ie is there a period of time element, or simply a momentary increase in voltage.
+What can cause a solar panel to generate too much power, and what are the exact parameters for the SMA Inverter to register this event, ie is there a sustained period of time at a higher voltage that needs to occur to register the event, or simply a momentary increase in voltage for a split second?
 
 The Inverter than registers the first of many interference device Event ID 64's from 15th July 2026 at 20:33:11 onwards. 
 
