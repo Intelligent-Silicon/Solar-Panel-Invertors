@@ -70,9 +70,12 @@ The solar panel ```Overvoltage event id 3401``` are unusual, but appear to alway
 
 What are the exact parameters for the SMA Inverter to register this event, ie is there a sustained period of time at a higher voltage that needs to occur to register the event, or simply a momentary increase in voltage for a split second?
 
-We know that the most brilliant of sun days on the most cloudless of days or pollution free of days on the planet, should NOT generate an over voltage event with the solar panels. Solar Panels are built to handle this plus a small tolerance. 
+We know that the most brilliant of sunny days on the most cloudless of days or pollution free of days on the planet, should NOT generate an over voltage event with the solar panels. Solar Panels are built to handle this plus a small tolerance. 
 
-The Inverter than registers the first of many interference device Event ID 64's from 15th July 2026 at 20:33:11 onwards. 
+
+### Interference Device
+
+The Inverter than registers the first of many ```interference device (64)``` Event ID 64's from 15th July 2026 at 20:33:11 onwards. 
 
 A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise there after. 
 
