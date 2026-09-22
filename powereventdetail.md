@@ -49,9 +49,11 @@ Warning                            Type                    Event                
 
 ### Details...
 
-The Inverter logs an event based on local time ([see link](https://www.sma-sunny.com/en/service-tip-1-setting-the-system-time/)). 
+The Inverter logs an event based on local time ([see link](https://www.sma-sunny.com/en/service-tip-1-setting-the-system-time/)) not UTC. 
 
-This is corrected backwards from the when SunnyBoy Explorer software logs on for the first time in Sept 2026 forcing the user and installer default passwords to be changed.
+The Inverter log time was set to British Summer Time, +1hr from UTC time, because this was the time when the inverter was logged into using the SunnyBoy software on 16th Sept 2026.
+
+The date & time for the logged events before the events generated when the SunnyBoy software logs in to the Inverter for the first time, is corrected backwards.
 
 A solar panel ```Overvoltage event id 3401``` are unusual, but appear to always occur during the day, suggesting the solar panels are generating too much electricity.
 
