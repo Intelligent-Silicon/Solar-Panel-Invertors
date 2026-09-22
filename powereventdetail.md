@@ -90,11 +90,9 @@ A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs eve
 | Sunrise | 16th July 2026 |
 | -- | -- |
 | Location | Time |
-| -- | -- |
-| Self Diagnosis | 05:48am | 
 | Felixstowe | 04:55am |
 | Southampton | 05:03am |
 | Devonport | 05:24am |
-
+| Self Diagnosis | 05:48am | 
 
 
