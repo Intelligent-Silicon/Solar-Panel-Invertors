@@ -5,7 +5,7 @@
 "Facts"
 
 Inverter logs an over voltage in the solar panels (DC side) at the corrected 14:52:47.
-```                                                                             |-- Corrected --|          
+```                                                                             |-- Corrected --|```          
 ```Type               Event                           Group   Date     HH MM SS Date     HH MM SS``` 
 ```[Incoming warning] Overvoltage input A (SW) (3401) DC Side 25/03/15  0 44 12 15/05/26 13 52 47```
 
