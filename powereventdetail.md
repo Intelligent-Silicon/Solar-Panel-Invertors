@@ -76,7 +76,7 @@ We know that the most brilliant of sunny days on the most cloudless of days or p
 
 So something else must be causing these overvoltage events. 
 
-Why does this knowledge presented on Youtube spring to mind???
+Why does this knowledge below presented on Youtube (click the link) spring to mind???
 
 [![Trolling](https://img.youtube.com/vi/7pSqk-XV2QM/0.jpg)](https://youtu.be/7pSqk-XV2QM)
 
