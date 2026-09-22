@@ -24,13 +24,28 @@ These 3 files are as follows
 
 The All Events were scraped from the SunnyBoy Explorer Windows Program. It became apparent, that the original installers had not set the date and time, and this was only corrected when the owner logged in for the very first time. This data time correction occurred on 16th Sept 26 at 19:56:28. So 4 new columns were added to show the corrected date and time in the CoPilotCorrected file. Its interesting to note, this correction is automatically applied by the SMA Sunnyboy software when looking at the graph showing the date 15th May 2026 in the ReadMe.md (front page) [here](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/InverterData.jpg). Obviously SMA are aware of the problems they face with some installers, and in this owner's case, the original installers went bust and disappeared, perhaps once realising a bit of work needs to be done, or it just was not as profitable as first thought. When dealing with businesses in any sector, this is sadly an all too frequent problem, so you get what you pay for, but the flip side is, consumer's dont want to pay for quality unless they can show it off to massage their ego's, hence the existence of Rolls Royce and bling in general!
 
-These files show all the major events that the inverter has encountered. Problems with the solar panels, and the mains National Grid, and there's alot of problems with the National Grid!
+These files show all the major events that the inverter has encountered. Problems with the solar panels, and the mains National Grid, and there's alot of problems with the National Grid over the 14+ years this installation has been live.
+
+
+### Group Summary
 
 The Group column will show either Grid Monitoring, Device (ie Inverter) or DC Side ie the solar panels. 
 
 Then there will be a series of events with an ID code, think of them as a warning or error code.
 
+
+| Group             | Event Count |
+| ----------------- | ----------: |
+| Device            |         248 |
+| Grid Monitoring   |         247 |
+| DC Side           |          11 |
+| User Rights       |           2 |
+| Device Components |           2 |
+
+
 ### National Grid Events
+
+These are all the National Grid events encountered by the Solar Panel Inverter over the last 14 years.
 
 | Event ID | Event Description | Problem | SMA Link |
 | -- | -- | -- | -- | 
@@ -45,4 +60,13 @@ Then there will be a series of events with an ID code, think of them as a warnin
 All Event ID's except 801 can be found here https://manuals.sma.de/SBxx-1AV-41/en-US/12481461387.html.
 
 
+### DC side
+
+These are all the events encountered from the Solar Panel side of the inverter.
+
+| Event ID | Event Description | Problem | SMA Link |
+| -- | -- | -- | -- |
+| 3501 | Insulation Failure | The inverter has detected a ground fault in the PV module. | https://manuals.sma.de/SBxx-1AV-41/en-US/10970856075.html |
+| 3401 | Overvoltage input A (SW) | Overvoltage at the DC input. This can destroy the inverter. | https://manuals.sma.de/SBSExx-50/en-US/13656924939.html |
+| 39 | Waiting for DC start conditions | This condition typically appears at dawn and dusk when the inverter’s on-board electrical system has already been supplied with sufficient power but the PV array’s input power and voltage is not yet sufficient for feed-in into the grid. In order to commence feed-in operation, the inverter needs a minimum DC starting power and a device-specific minimum DC voltage as a critical voltage. The exact critical voltage to start the feed-in has been saved as a parameter in the inverter. As a rule of thumb, the minimum open-circuit voltage is approx. 20% above the minimum MPP voltage (see type plate). | https://my.sma-service.com/s/article/Event-39-3901-3902-or-3903?language=en_US | 
 
