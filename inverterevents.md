@@ -60,13 +60,53 @@ These are all the National Grid events encountered by the Solar Panel Inverter o
 All Event ID's except 801 can be found here https://manuals.sma.de/SBxx-1AV-41/en-US/12481461387.html.
 
 
+| Event                               | Count |
+| ----------------------------------- | ----: |
+| Grid failure (801)                  |    96 |
+| PLL outside limits (205)            |    74 |
+| Grid undervoltage slow (203)        |    61 |
+| Grid overvoltage (spot value) (101) |    11 |
+| Grid overvoltage slow (103)         |     3 |
+| Grid frequency disturbance (501)    |     1 |
+| Island grid (401)                   |     1 |
+
+
+
 ### DC side
 
 These are all the events encountered from the Solar Panel side of the inverter.
 
 | Event ID | Event Description | Problem | SMA Link |
 | -- | -- | -- | -- |
-| 3501 | Insulation Failure | The inverter has detected a ground fault in the PV module. | https://manuals.sma.de/SBxx-1AV-41/en-US/10970856075.html |
-| 3401 | Overvoltage input A (SW) | Overvoltage at the DC input. This can destroy the inverter. | https://manuals.sma.de/SBSExx-50/en-US/13656924939.html |
 | 39 | Waiting for DC start conditions | This condition typically appears at dawn and dusk when the inverter’s on-board electrical system has already been supplied with sufficient power but the PV array’s input power and voltage is not yet sufficient for feed-in into the grid. In order to commence feed-in operation, the inverter needs a minimum DC starting power and a device-specific minimum DC voltage as a critical voltage. The exact critical voltage to start the feed-in has been saved as a parameter in the inverter. As a rule of thumb, the minimum open-circuit voltage is approx. 20% above the minimum MPP voltage (see type plate). | https://my.sma-service.com/s/article/Event-39-3901-3902-or-3903?language=en_US | 
+| 3401 | Overvoltage input A (SW) | Overvoltage at the DC input. This can destroy the inverter. | https://manuals.sma.de/SBSExx-50/en-US/13656924939.html |
+| 3501 | Insulation Failure | The inverter has detected a ground fault in the PV module. | https://manuals.sma.de/SBxx-1AV-41/en-US/10970856075.html |
+
+
+When looking at Event 39, it doesnt occur too often, only 4 times, so thats 4 days in 14 years where the conditions were not quite right. 
+
+So what could have caused these?
+
+| Event 39 Date Time |
+| -- | 
+| 21/07/26 06:26:50 |
+| 21/07/26 06:26:54 |
+| 20/08/26 20:02:34 |
+| 20/08/26 20:02:37 |
+
+It doesnt look like solar full or partial is affecting them...
+
+| Solar Eclipses |
+| -- | 
+| 20 March 2015 |
+| 10 June 2021 |
+| 25 October 2022 | 
+| 29 March 2025 |
+| 12 August 2026 |
+
+Is this what wild fire's can do?
+
+https://en.wikipedia.org/wiki/2026_United_Kingdom_wildfires#England_2
+
+
 
