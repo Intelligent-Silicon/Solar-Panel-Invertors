@@ -51,11 +51,11 @@ Warning                            Type                    Event                
 
 The Inverter logs an event based on local time ([see link](https://www.sma-sunny.com/en/service-tip-1-setting-the-system-time/)) not UTC. 
 
-The Inverter log time was set to British Summer Time, +1hr from UTC time, because this was the time when the inverter was logged into using the SunnyBoy software on 16th Sept 2026.
+The Inverter log time was set to British Summer Time, +1hr ahead from UTC time, because this was the time when the inverter was logged into using the SunnyBoy software on 16th Sept 2026.
 
 The date & time for the logged events before the events generated when the SunnyBoy software logs in to the Inverter for the first time, is corrected backwards.
 
-A solar panel ```Overvoltage event id 3401``` are unusual, but appear to always occur during the day, suggesting the solar panels are generating too much electricity.
+The solar panel ```Overvoltage event id 3401``` are unusual, but appear to always occur during the day, suggesting the solar panels are generating too much electricity.
 
 ```
 10th Feb 2020  09:06:17
@@ -64,7 +64,11 @@ A solar panel ```Overvoltage event id 3401``` are unusual, but appear to always 
 15th July 2026 13:52:47
 ```
 
-What can cause a solar panel to generate too much power, and what are the exact parameters for the SMA Inverter to register this event, ie is there a sustained period of time at a higher voltage that needs to occur to register the event, or simply a momentary increase in voltage for a split second?
+### What can cause a solar panel to generate too much power? 
+
+What are the exact parameters for the SMA Inverter to register this event, ie is there a sustained period of time at a higher voltage that needs to occur to register the event, or simply a momentary increase in voltage for a split second?
+
+We know that the most brilliant of sun days on the most cloudless of days or pollution free of days on the planet, should NOT generate an over voltage event with the solar panels. Solar Panels are built to handle this plus a small tolerance. 
 
 The Inverter than registers the first of many interference device Event ID 64's from 15th July 2026 at 20:33:11 onwards. 
 
