@@ -61,7 +61,7 @@ Batteries from an APC Back-UPS RS 1500 BR1500LCDI [![APC Back-UPS RS 1500 BR1500
 
 ![Battery 2 Side 1 Blown](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/Batt2Side1Blown.jpg)
 
-
+It should be noted that normally, Lithium ion battery's blow because gases build up as they age. The aging process can be vastly accelerated by letting the battery get hot, like keeping a mobile phone, laptop or tablet in the sun. The lead Acid batteries used in desktop and server UPS (Uninterruptible Power Supplies) backups, can also suffer from this problem especially when the casing is sealed. The 3 factors that affect both lithium ion and lead acid are age, constant high temperatures and overcharging. In the case of the APC battery backup, capacitors or voltage regulation chips on the charging board can fail, causing the charger to supply continuous, unregulated high voltage to the battery causing them to fail. So its unlikely the mains electricity cause this problem, but it was just a timing coincidence. Still handy to know though.
 
 ### Windows Event Logs
 
@@ -121,6 +121,12 @@ Here you can see bands of frequencies where data is uploaded or downloaded. Thin
 
 
 So if you have an alarm system fitted, its also worth checking with them to see if any event was sent to them, like the alarm system switching over to battery backup.
+
+
+### Inverter logs
+
+This is section is more detailed so has its own page [here](inverterevents.md)
+
 
 ### Onus
 
