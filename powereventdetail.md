@@ -68,6 +68,21 @@ The sun can not be bright enough in the UK to generate an over voltage event at 
 15th July 2026 13:52:47
 ```
 
+### Interference Device
+
+The Inverter than registers the first of many ```interference device (64)``` entries in the log from 15th July 2026 at 20:33:11 onwards. 
+
+A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise + (30-60mins) there after.
+
+| Sunrise | 16th July 2026 |
+| -- | -- |
+| Location | Time |
+| Felixstowe | 04:55am |
+| Southampton | 05:03am |
+| Devonport | 05:24am |
+| Self Diagnosis (64)  | 05:48am | 
+
+
 ### What can cause a solar panel to generate too much power? 
 
 What are the exact parameters for the SMA Inverter to register this event, ie is there a sustained period of time at a higher voltage that needs to occur to register the event, or simply a momentary increase in voltage for a split second?
@@ -79,20 +94,3 @@ So something else must be causing these overvoltage events.
 Why does this knowledge below presented on Youtube (click the link) spring to mind???
 
 [![Trolling](https://img.youtube.com/vi/7pSqk-XV2QM/0.jpg)](https://youtu.be/7pSqk-XV2QM)
-
-
-### Interference Device
-
-The Inverter than registers the first of many ```interference device (64)``` entries in the log from 15th July 2026 at 20:33:11 onwards. 
-
-A self diagnosis starts around 05:48:20 on the 16th July 2026 and one occurs everyday at sunrise there after. This self diagnosis event occurs 30-60mins after sunrise.
-
-| Sunrise | 16th July 2026 |
-| -- | -- |
-| Location | Time |
-| Felixstowe | 04:55am |
-| Southampton | 05:03am |
-| Devonport | 05:24am |
-| Self Diagnosis (64)  | 05:48am | 
-
-
