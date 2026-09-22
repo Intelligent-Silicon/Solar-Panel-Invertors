@@ -78,7 +78,6 @@ So something else must be causing these overvoltage events.
 
 Why does this knowledge presented on Youtube spring to mind???
 
-https://www.youtube.com/watch?v=7pSqk-XV2QM
 [![Trolling](https://img.youtube.com/vi/7pSqk-XV2QM/0.jpg)](https://youtu.be/7pSqk-XV2QM)
 
 
