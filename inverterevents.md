@@ -136,5 +136,7 @@ Switch it back on, Mains isolater switch first, then Solar isolator, and see if 
 If it doesnt, you can try switching it off over night. Its unlikely this will resolve the matter, but it gives components time to lose all their heat, so any component failure caused by operating temperatures will show up here as metals contract when cold and expand when hot.
  
 This last bit was more relevant with electronics from the 90's to the 00's when manufacturers started experimenting with the removal of lead from solder before the EU deadline on 1st July 2006. 
-Lead in electronic's solder added weight to the solder joint so less had to be used. The removal of lead forced manufacturers to experiment with using different types of solder and different amounts, to ensure a good connection. Sometimes not enough of the lead-free solder was used on a joint, and when the components, boards and case got up to operating temperatures, tiny breaks occurred affecting the circuit. Today its largely not an issue.
+Lead in electronic's solder added weight to the solder joint so less had to be used. 
+
+The removal of lead forced manufacturers to experiment with using different types of solder and different amounts, to ensure a good connection. Sometimes not enough of the lead-free solder was used on a joint, and when the components, boards and case got up to operating temperatures, tiny breaks occurred affecting the circuit. Today its largely not an issue.
 
