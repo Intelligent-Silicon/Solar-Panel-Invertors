@@ -57,10 +57,12 @@ The date & time for the logged events before the events generated when the Sunny
 
 ### Overvoltage Events
 
-The solar panel ```Overvoltage event id 3401``` are unusual, but appear to always occur during the day, suggesting the solar panels are generating too much electricity.
+The solar panel ```Overvoltage event id 3401``` are unusual, but appear to always occur during the day, suggesting the solar panels are generating too much electricity, but unusually is the first entry at 9am on a Feb of all days!!! 
+
+The sun can not be bright enough in the UK to generate an over voltage event at 9am on a Feb Morning.  So something else must be generating these events...
 
 ```
-10th Feb 2020  09:06:17
+10th Feb  2020 09:06:17
 11th July 2022 13:59:13
 13th July 2022 14:39:07
 15th July 2026 13:52:47
