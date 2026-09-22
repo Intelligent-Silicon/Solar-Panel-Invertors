@@ -72,7 +72,14 @@ The sun can not be bright enough in the UK to generate an over voltage event at 
 
 What are the exact parameters for the SMA Inverter to register this event, ie is there a sustained period of time at a higher voltage that needs to occur to register the event, or simply a momentary increase in voltage for a split second?
 
-We know that the most brilliant of sunny days on the most cloudless of days or pollution free of days on the planet, should NOT generate an over voltage event with the solar panels. Solar Panels are built to handle this plus a small tolerance. 
+We know that the most brilliant of sunny days on the most cloudless of days or pollution free of days on the planet, should NOT generate an over voltage event with the solar panels. Solar Panels are built to handle the best sunny conditions plus a small tolerance. 
+
+So something else must be causing these overvoltage events. 
+
+Why does this knowledge presented on Youtube spring to mind???
+
+https://www.youtube.com/watch?v=7pSqk-XV2QM
+[![Trolling](https://img.youtube.com/vi/7pSqk-XV2QM/0.jpg)](https://youtu.be/7pSqk-XV2QM)
 
 
 ### Interference Device
