@@ -4,17 +4,36 @@
 
 "Facts"
 
+### 15th May 2026 13:52:47
+
 Inverter logs an over voltage in the solar panels (DC side) at the corrected 13:52:47.
+
+https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/data/AllEvents_CoPilotCorrectedDateHoursMinsSecsSortOrder.csv
+
 ```
                                                                              |-- Corrected --|
 Type               Event                           Group   Date     HH MM SS Date     HH MM SS
 [Incoming warning] Overvoltage input A (SW) (3401) DC Side 25/03/15  0 44 12 15/05/26 13 52 47
 ```
 
-https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/data/AllEvents_CoPilotCorrectedDateHoursMinsSecsSortOrder.csv
+
+### 15th May 2026 14:58
 
 Text message received at 14:58 
+
 ![Power Alert 1](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/PowerAlertTxtMsgSmall.jpg)
+
+
+### 15th May 2026 
+
+Power Generation appears to stop sometime from lunchtime, early afternoon.
+
+![Inverter Meter Reading](https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/pics/InverterData.jpg)
+
+
+### 15th July 2026 20:33:11
+
+Inverter failure from 15th July 2026 onwards.
 
 ```
                                                                                                                |-- Corrected --|
@@ -28,6 +47,10 @@ Warning                            Type                    Event                
                                    [Outgoing information ] Interference device (64) Device  27/05/15  7 28 28  17/07/26 20 37  3
 
 ```
+
+
+
+### Details...
 
 The Inverter logs an event based on local time (see link below). This is corrected backwards from the when SunnyBoy Explorer software logs on for the first time in Sept 2026 forcing the user and installer default passwords to be changed.
 https://www.sma-sunny.com/en/service-tip-1-setting-the-system-time/
