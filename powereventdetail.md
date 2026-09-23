@@ -50,6 +50,19 @@ Warning                            Type                    Event                
 Instantaneous values collected 23d Sept 2026 from 11:00am
 https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/InstantValues_20260923_1100.md
 
+```
+Current Event
+		Fault correction measure: ---
+		Event number manufacturer
+			Minimum: 6,408 ! UCE (U/CE (Collector-Emitter Voltage)) monitoring error, which relates to an internal hardware or power transistor (IGBT) fault rather than a simple external grid issue.
+			Maximum: 6,408
+			Number of devices: 1
+```
+
+Insulated-gate bipolar transistors aka IGBT could have failed. These are located on the rearside of the invertor main board as seen in the youtube video below cued up at 3:41. 
+
+[![Errorcode 6408](https://img.youtube.com/vi/tYEVBwqifZY/0.jpg)](https://youtu.be/tYEVBwqifZY?t=221)
+
 
 
 ### Inverter Log Corrected Date Time
