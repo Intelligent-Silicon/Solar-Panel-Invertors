@@ -60,7 +60,7 @@ Current Event
 			Number of devices: 1
 ```
 
-Insulated-gate bipolar transistors aka IGBT could have failed and not the Varistors, making this a more expensive repair, and introduces the question is it safer to get a new inverter, with another warranty? These IGBT's are located on the rearside of the invertor main board as seen in the youtube video below cued up at 3:41. Due to the small monetary amounts recovered from the Feed-In Tarrif, it may not make financial sense to get a new inverter, which leaves scrap on the roof and in the loft which will need disposal at some point. This is where the Govt has solar panel users over a barrel because this will affect the resale value of their properties.
+Insulated-gate bipolar transistors aka IGBT could have failed and not the Varistors, making this a more expensive repair, and introduces the question is it safer to get a new inverter, with another warranty? These IGBT's are located on the rearside of the invertor main board as seen in the youtube video below cued up at 3:41. Due to the small monetary amounts recovered from the Feed-In Tarrif, it may not make financial sense to get a new inverter, which leaves scrap on the roof and in the loft which will need disposal at some point. This is where the Govt has solar panel users over a barrel because this will affect the resale value of their properties. Tesla Solar were onto something with the scrapping of solar roof tiles and eyesores...
 
 [![Errorcode 6408](https://img.youtube.com/vi/tYEVBwqifZY/0.jpg)](https://youtu.be/tYEVBwqifZY?t=221)
 
@@ -78,7 +78,7 @@ The date & time for the logged events before the events generated when the Sunny
 
 The solar panel ```Overvoltage event id 3401``` are unusual, but appear to always occur during the day, suggesting the solar panels are generating too much electricity, but unusually is the first entry at 9am on a Feb of all days!!! 
 
-The sun can not be bright enough in the UK to generate an over voltage event at 9am on a Feb Morning.  So something else must be generating these events...
+The sun can not be bright enough in the UK to generate an over voltage event at 9am on a Feb Morning.  So something else must be generating these events... Max daytime temperatures for those days have been added.
 
 ```
 10th Feb  2020 09:06:17  7°C
