@@ -57,7 +57,7 @@ Device
 	There is no data currently available. ! Same for Fleet view or device selected view.
 	
 DC Side (Solar Inverters) ! The addition of "(Solar Inverters)" indicates the "Fleet" view. The absence of "(Solar Inverters)" means an individual device has been selected.
-	DC measurements ! These figures appear to be polled every few minutes, possibly every 5 mins, so could be considered realtime and will fluctuate as you look at them. This will be more noticeable on a patchy cloudy day.
+	DC measurements ! These figures appear to be fluctuate every second when a device is selected, and polled every few minutes, possibly every 5 mins, in fleet view, so could be considered realtime. This will be more noticeable on a patchy cloudy day.
 		Current [A]: 
 			Minimum: 0.000A
 			Maximum: 0.000A
@@ -83,7 +83,7 @@ DC Side (Solar Inverters) ! The addition of "(Solar Inverters)" indicates the "F
 			Number of Devices: 1
 		
 AC Side (Solar Inverters) ! The addition of "(Solar Inverters)" indicates the "Fleet" view. The absence of "(Solar Inverters)" means an individual device has been selected.
-	Grid measurements ! These figures appear to be polled every few minutes, possibly every 5 mins, so could be considered realtime and will fluctuate as you look at them. This will be more noticeable on a patchy cloudy and/or windy day.
+	Grid measurements ! These figures appear to be fluctuate every second when a device is selected, and polled every few minutes, possibly every 5 mins, in fleet view, so could be considered realtime. This will be more noticeable on a patchy cloudy and/or windy day.
 		Grid frequency: 49.90Hz
 			Minimum: 49.90Hz
 			Maximum: 49.90Hz
