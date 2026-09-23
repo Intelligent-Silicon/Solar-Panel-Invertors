@@ -60,7 +60,7 @@ Current Event
 			Number of devices: 1
 ```
 
-Insulated-gate bipolar transistors aka IGBT could have failed and not the Varistors, making this a more expensive repair, and introduces the question is it safer to get a new inverter? These IGBT's are located on the rearside of the invertor main board as seen in the youtube video below cued up at 3:41. Due to the small monetary amounts recovered from the Feed-In Tarrif, it may not make commercial sense to get a new inverter, which leaves scrap on the roof and in the loft which will need disposal at some point. This is where the Govt has solar panel users over a barrel because this will affect the resale value of their properties.
+Insulated-gate bipolar transistors aka IGBT could have failed and not the Varistors, making this a more expensive repair, and introduces the question is it safer to get a new inverter, with another warranty? These IGBT's are located on the rearside of the invertor main board as seen in the youtube video below cued up at 3:41. Due to the small monetary amounts recovered from the Feed-In Tarrif, it may not make financial sense to get a new inverter, which leaves scrap on the roof and in the loft which will need disposal at some point. This is where the Govt has solar panel users over a barrel because this will affect the resale value of their properties.
 
 [![Errorcode 6408](https://img.youtube.com/vi/tYEVBwqifZY/0.jpg)](https://youtu.be/tYEVBwqifZY?t=221)
 
