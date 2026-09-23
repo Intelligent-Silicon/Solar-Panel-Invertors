@@ -144,7 +144,7 @@ The Deagle website runs ASP.NET core.
 
 Infrared can also cause solar panels to generate more voltage. 
 
-Solar Panels are designed to generate electricity from the Infrared band, through the visible light band on into the UV light band. Obviously UV will generate more electricity, than visible light or Infrared.  
+Solar Panels are designed to generate electricity from the Infrared band, through the visible light band on into the UV light band. Obviously UV will generate more electricity, than visible light or Infrared because its a higher energy wavelength.  
 
 The specs of the EOTS system are hard to come by, but would it be possible for an military targetting system to cause an overvoltage event?
 
