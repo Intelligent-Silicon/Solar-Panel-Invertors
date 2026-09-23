@@ -180,7 +180,7 @@ I think the first course of action is to get the Varistors checked out, to find 
 
 
 
-
+https://www.star.nesdis.noaa.gov/goes/sector.php?sat=G19&sector=mex
 
 
 
