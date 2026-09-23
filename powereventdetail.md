@@ -97,7 +97,7 @@ Why does this knowledge below presented on Youtube (click the link) spring to mi
 [![Trolling](https://img.youtube.com/vi/7pSqk-XV2QM/0.jpg)](https://youtu.be/7pSqk-XV2QM)
 
 
-So the general opinion of a DC Overvoltage event is the solar panels generate more DC power than the inverter can handle. Thats fine, except it shouldnt happen at 9am on Feb morning, maybe around lunchtime on a bright sunny day at the height of summer, but not Feb coming out of winter. 
+So the general opinion of a DC Overvoltage event is the solar panels generate more DC power than the inverter can handle. Thats fine, except it shouldnt happen at 9am on a Feb morning, maybe around lunchtime on a bright sunny day at the height of summer, but not Feb coming out of winter. 
 
 Could it also be caused by a lightening strike? Perhaps, but there werent any thunderstorms at 9am on Feb 10 2020, or on any of the other days around the time the overvoltage events were generated. 
 
@@ -113,7 +113,49 @@ But the voltage changes are not much, perhaps a change of 10volts.
 
 So are there any other things that could cause a solar panel to generate more power to trigger an overvoltage event?
 
-Yes
+Yes.
+
+Fighter aircraft are strictly prohibited from using live or weaponised missile targeting systems to target civilian properties in the UK. 
+
+Under the UK Civil Aviation Authority (CAA) regulations, the Law of Armed Conflict (LOAC), and strict Royal Air Force (RAF) peacetime operational rules, civilian structures cannot be actively targeted or used for weapons-live training.
+
+Unfortunately not all the links on this webpage below, go anywhere, pages are missing. 
+https://www.caa.co.uk/commercial-industry/airspace/event-and-obstacle-notification/airspace-restrictions/
+
+Missing https://www.caa.co.uk/cap2038a00
+
+There is also a specific post on Stack Exchange.
+https://aviation.stackexchange.com/questions/101213/do-the-military-really-use-ga-planes-as-target-practice
+
+```the military sometimes use GA as target practice (obviously they're not actually doing any 'firing').```
+
+```As for the US, they do practice intercepts on GA planes and they aren't supposed to. A F-16 was involved in a hull-loss crash due to perceived loss of control during a low-speed interception, and the mishap investigation report states:```
+
+GA = General Aviation.
+
+Now with the new F-35's, the [EOTS](https://www.lockheedmartin.com/en-us/products/f-35-lightning-ii-eots.html) system has an infrared laser targetting system. 
+
+https://deagel.com/Components/EOTS/a001541
+
+```
+The EOTS comprises a third generation FLIR (Forward-Looking InfraRed), a laser, and a CCD-TV (charge-coupled device) camera providing target detection and identification at greatly increased standoff ranges, high resolution imagery, automatic tracking, infrared search and track IRST, laser designation, laser rangefinder, and laser spot tracking. The EOTS F-35 sub-system functionality could be expanded in the future.
+```
+The Deagle website runs ASP.NET core. 
+
+Infrared can also cause solar panels to generate more voltage. 
+
+Solar Panels are designed to generate electricity from the Infrared band, through the visible light band on into the UV light band. Obviously UV will generate more electricity, than visible light or Infrared.  
+
+The specs of the EOTS system are hard to come by, but would it be possible for an military targetting system to cause an overvoltage event?
+
+Whilst I would like to say FlightRadar24 could be useful, the USAF dont always use their transponders to signal their position, or only one aircraft in a sortie (group) may have it switched on to hide their numbers. You've all probably seen TopGun...
+
+Could InfraRed from a weather satellite have enough power despite being in Low Earth Orbit (LEO) to trigger an over voltage event?
+
+What about solar flares, or solar reflections from satellite solar panels reflecting the sun down onto solar panels on buildings?
+
+
+
 
 
 
