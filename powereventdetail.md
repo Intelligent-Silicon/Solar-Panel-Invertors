@@ -45,6 +45,11 @@ Warning                            Type                    Event                
 
 ```
 
+### 23rd Sept 2026 11:00
+
+Instantaneous values collected 23d Sept 2026 from 11:00am
+https://github.com/Intelligent-Silicon/Solar-Panel-Invertors/blob/main/InstantValues_20260923_1100.md
+
 
 
 ### Inverter Log Corrected Date Time

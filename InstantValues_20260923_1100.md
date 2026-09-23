@@ -2,6 +2,7 @@
 
 Instant Values 23rd Sept 2026 from 11:00am - 11:30am
 
+```
 Status (Solar Inverters)
 	Operation
 		Reason for derating: not active
@@ -82,7 +83,17 @@ AC Side
 		Operating time: 59,466.65h
 		Total yield: 38.230MWh
 		
-	
+System communication (Communication products)
+	Bluetooth
+		Downlink
+			Connection quality: 100%
+				Minimum: 100%
+				Maximum: 100%
+				Average: 100%
+				Number of devices: 1
+			NetID: FF
+			Status: Connected
+```			
 
 	
 
