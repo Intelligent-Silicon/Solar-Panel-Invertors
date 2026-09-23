@@ -51,7 +51,7 @@ Warning                            Type                    Event                
 
 The Inverter logs an event based on local time ([see link](https://www.sma-sunny.com/en/service-tip-1-setting-the-system-time/)) not UTC. 
 
-The Inverter log time was set to British Summer Time, +1hr ahead from UTC time, because this was the time when the inverter was logged into using the SunnyBoy software on 16th Sept 2026.
+The Inverter log time was set to British Summer Time, +1hr ahead of UTC time, because this was the time when the inverter was logged into using the SunnyBoy software on 16th Sept 2026.
 
 The date & time for the logged events before the events generated when the SunnyBoy software logs in to the Inverter for the first time, is corrected backwards.
 
