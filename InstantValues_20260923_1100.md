@@ -2,7 +2,11 @@
 
 Instant Values 23rd Sept 2026 from 11:00am - 11:30am
 
-To get the min, max number of devices data, click on the SunnyBoy Inverter node in the far left panel. This will then give you the view of the "Fleet" data, fleet being multiple device's. To get the data for an individual device, highlight the device in the far left panel and you will get the data for the device, minus the subnode showing min, max, number of devices data.
+To get the min, max, & number of devices data, click on the SunnyBoy Inverter node in the far left panel. 
+
+This will then give you the view of the "Fleet" data, fleet being multiple device's. 
+
+To get the data for an individual device, highlight the device in the far left panel and you will get the data for the device, minus the subnode showing min, max, (Sum), (Average), number of devices data.
 
 
 
