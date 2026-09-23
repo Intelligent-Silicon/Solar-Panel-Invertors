@@ -150,9 +150,14 @@ The specs of the EOTS system are hard to come by, but would it be possible for a
 
 Whilst I would like to say FlightRadar24 could be useful, the USAF dont always use their transponders to signal their position, or only one aircraft in a sortie (group) may have it switched on to hide their numbers. You've all probably seen TopGun...
 
-Could InfraRed from a weather satellite have enough power despite being in Low Earth Orbit (LEO) to trigger an over voltage event?
+Could InfraRed from a weather satellite have enough power despite being in Low Earth Orbit (LEO) to trigger an over voltage event? Latest gen weather satellites, shine a laser down towards earth to measure things in the atmosphere at different depths. 
 
 What about solar flares, or solar reflections from satellite solar panels reflecting the sun down onto solar panels on buildings?
+
+
+I think the first course of action is to get the Varistors checked out, to find out if they are still functional, but also to find out if both have failed, or if one has failed, which side? Solar panel side or Mains side?
+
+
 
 
 
