@@ -148,7 +148,7 @@ Solar Panels are designed to generate electricity from the Infrared band, throug
 
 The specs of the EOTS system are hard to come by, but would it be possible for an military targetting system to cause an overvoltage event?
 
-Whilst I would like to say FlightRadar24 could be useful, the USAF dont always use their transponders to signal their position, or only one aircraft in a sortie (group) may have it switched on to hide their numbers. You've all probably seen TopGun...
+Whilst I would like to say FlightRadar24 could be useful, the USAF dont always use their transponders to signal their aircraft position, or only one aircraft in a group sortie may have it switched on to hide their numbers. You've all probably seen TopGun...
 
 Could InfraRed from a weather satellite have enough power despite being in Low Earth Orbit (LEO) to trigger an over voltage event? Latest gen weather satellites, shine a laser down towards earth to measure things in the atmosphere at different depths. 
 
