@@ -25,7 +25,7 @@ Status (Solar Inverters) ! The addition of "(Solar Inverters)" indicates the "Fl
 	Current Event
 		Fault correction measure: ---
 		Event number manufacturer
-			Minimum: 6,408 ! UCE ( \[U_{CE}\] (Collector-Emitter Voltage) monitoring error, which relates to an internal hardware or power transistor (IGBT) fault rather than a simple external grid issue.
+			Minimum: 6,408 ! UCE (U/CE (Collector-Emitter Voltage)) monitoring error, which relates to an internal hardware or power transistor (IGBT) fault rather than a simple external grid issue.
 			Maximum: 6,408
 			Number of devices: 1
 			
