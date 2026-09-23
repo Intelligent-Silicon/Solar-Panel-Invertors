@@ -62,10 +62,10 @@ The solar panel ```Overvoltage event id 3401``` are unusual, but appear to alway
 The sun can not be bright enough in the UK to generate an over voltage event at 9am on a Feb Morning.  So something else must be generating these events...
 
 ```
-10th Feb  2020 09:06:17
-11th July 2022 13:59:13
-13th July 2022 14:39:07
-15th July 2026 13:52:47
+10th Feb  2020 09:06:17  7°C
+11th July 2022 13:59:13 23°C
+13th July 2022 14:39:07 24°C
+15th July 2026 13:52:47 23°C
 ```
 
 ### Interference Device
@@ -95,3 +95,28 @@ So something else must be causing these overvoltage events.
 Why does this knowledge below presented on Youtube (click the link) spring to mind???
 
 [![Trolling](https://img.youtube.com/vi/7pSqk-XV2QM/0.jpg)](https://youtu.be/7pSqk-XV2QM)
+
+
+So the general opinion of a DC Overvoltage event is the solar panels generate more DC power than the inverter can handle. Thats fine, except it shouldnt happen at 9am on Feb morning, maybe around lunchtime on a bright sunny day at the height of summer, but not Feb coming out of winter. 
+
+Could it also be caused by a lightening strike? Perhaps, but there werent any thunderstorms at 9am on Feb 10 2020, or on any of the other days around the time the overvoltage events were generated. 
+
+Are there too many solar panels for the inverter to handle? No.
+
+Can natural phenomena cause overvoltage?
+
+In some situations. Solar Panels are engineered to perform at optimum at 25°C. For ever 1°C they get hotter, they generate about 0.5% less voltage, and for every 1°C colder than 25°C, they generate more voltage in sunshine. 
+
+A more detailed example is explained [here](https://www.uksn.org.uk/post/how-to-protect-your-solar-power-station-from-overvoltage-in-cold-weather)
+
+But the voltage changes are not much, perhaps a change of 10volts.
+
+So are there any other things that could cause a solar panel to generate more power to trigger an overvoltage event?
+
+Yes
+
+
+
+
+
+
