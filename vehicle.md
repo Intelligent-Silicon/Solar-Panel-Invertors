@@ -1,5 +1,7 @@
 # 4-Way Powertrain Telemetry Comparison (10-100 mph)
 
+Google Gemini
+
 This document tracks a full-throttle acceleration sweep at 10 mph increments from 10 to 100 mph. It highlights four completely different automotive engineering philosophies:
 1. **The Diesel Hot Hatch:** Volkswagen Golf Mk7.5 GTD (2.0L I4 Turbo-Diesel)
 2. **The Plug-in Hybrid SUV:** Land Rover Defender P400e (2.0L I4 PHEV)
